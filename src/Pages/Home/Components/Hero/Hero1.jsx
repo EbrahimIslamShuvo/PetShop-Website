@@ -1,6 +1,8 @@
 import React from 'react';
 import { FaChevronCircleRight, FaCircle } from 'react-icons/fa';
 
+import pet01 from "../Hero/Image/bird.png"
+
 const Hero1 = () => {
     return (
         <div>
@@ -38,7 +40,7 @@ const Hero1 = () => {
                                 }}
                                 className="hidden md:block"
                             >
-                                <img src="/src/Pages/Home/Components/Hero/Image/bird.png" alt="Bird" />
+                                <img src={pet01} alt="Bird" />
                             </div>
                             <div className=" absolute z-40 -top-15 -right-35">
                                 <img className='w-70' src="/src/Pages/Home/Components/Hero/Image/discount.png" alt="" />
