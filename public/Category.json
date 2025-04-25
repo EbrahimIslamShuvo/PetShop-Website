@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "Pet"
+    },
+    {
+        "id":2,
+        "name": "Pet Food"
+    },
+    {
+        "id":3,
+        "name": "Kitty Food"
+    },
+    {
+        "id":4,
+        "name": "Pet Toy"
+    },
+    {
+        "id":5,
+        "name": "Pet Medicine"
+    },
+    {
+        "id":6,
+        "name": "Pet Adoption"
+    },
+    {
+        "id":7,
+        "name": "Pet Accessories"
+    }
+]
+
+

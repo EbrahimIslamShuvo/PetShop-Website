@@ -1,0 +1,1657 @@
+[
+    {
+      "product_id": 201,
+      "name": "Golden Retriever Puppy",
+      "price": 1200.00,
+      "discount_price": 1000.00,
+      "discount_percent": 17,
+      "rating": 5,
+      "rating_count": 85,
+      "selling_count": 5043,
+      "short_description": "Adorable Golden Retriever puppy with a friendly temperament and high energy.",
+      "long_description": "Golden Retrievers are known for their intelligence, loyalty, and friendly demeanor. Our Golden Retriever puppies are vet-checked, vaccinated, and come with a health certificate. Ideal for families, these puppies thrive on companionship and enjoy both outdoor and indoor activities. They are easy to train, great with children, and adapt well to new environments. Socialized from an early age, they make excellent lifelong companions. Each pup is raised in a loving, clean environment and fed a high-quality diet.",
+      "category": "Pet",
+      "tag": "dog, retriever, puppy, family",
+      "image": "https://th.bing.com/th/id/R.3f03da3e83c19bd18ff5947edaf75daf?rik=vvhyQ3I%2bg3OyfQ&pid=ImgRaw&r=0",
+      "additional_info": {
+        "Breed": "Golden Retriever",
+        "Age": "10 weeks",
+        "Gender": "Male",
+        "Vaccinated": "Yes",
+        "Microchipped": "Yes",
+        "Dewormed": "Yes",
+        "Color": "Golden",
+        "Energy Level": "High",
+        "Good with Kids": "Yes",
+        "Location": "California"
+      },
+      "reviews": [
+        {
+          "review_name": "John M.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-03-10",
+          "description": "Absolutely in love with our new pup! Healthy, energetic, and super playful."
+        },
+        {
+          "review_name": "Emily R.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-04-01",
+          "description": "Great temperament and super friendly. The whole adoption process was smooth and professional."
+        },
+        {
+          "review_name": "David L.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 4,
+          "date": "2025-04-15",
+          "description": "Very happy with the puppy. Just wish the instructions for diet were more detailed."
+        }
+      ]
+    },
+    {
+      "product_id": 202,
+      "image": "https://i.pinimg.com/originals/6c/16/98/6c16981fee2be370982580633cc3c0d5.jpg" ,
+      "name": "Persian Kitten",
+      "price": 850.00,
+      "discount_price": 0,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 60,
+      "selling_count": 5025,
+      "short_description": "Elegant Persian kitten with luxurious fur and a calm, affectionate personality.",
+      "long_description": "Our Persian kittens are raised in a clean, loving home and are fully litter trained. Known for their gentle and laid-back temperament, these kittens are perfect for quiet households. They enjoy human company and are very affectionate. Each kitten is vet-checked, vaccinated, and comes with a health guarantee. With their beautiful, fluffy coats and big, expressive eyes, they’re a joy to have around. Easy to groom and very intelligent, they’re great companions for adults and children alike.",
+      "category": "Pet",
+      "tag": "cat, persian, fluffy, affectionate",
+      "additional_info": {
+        "Breed": "Persian",
+        "Age": "8 weeks",
+        "Gender": "Female",
+        "Vaccinated": "Yes",
+        "Dewormed": "Yes",
+        "Color": "White",
+        "Fur Type": "Long",
+        "Litter Trained": "Yes",
+        "Indoor Pet": "Yes",
+        "Location": "New York"
+      },
+      "reviews": [
+        {
+          "review_name": "Lisa T.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 4,
+          "date": "2025-03-05",
+          "description": "Such a beautiful and sweet kitten. She settled in right away!"
+        },
+        {
+          "review_name": "Mike F.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-03-22",
+          "description": "Well cared for and perfectly groomed. Highly recommended breeder."
+        },
+        {
+          "review_name": "Olivia P.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 3,
+          "date": "2025-04-10",
+          "description": "Kitten is lovely, but had a little travel anxiety for the first few days."
+        }
+      ]
+    },
+    {
+      "product_id": 203,
+      "name": "African Grey Parrot",
+      "price": 1500.00,
+      "discount_price": 1300.00,
+      "discount_percent": 13,
+      "rating": 5,
+      "rating_count": 92,
+      "selling_count": 48,
+      "short_description": "Highly intelligent African Grey Parrot known for speech and mimicry abilities.",
+      "long_description": "The African Grey Parrot is one of the most intelligent bird species, capable of mimicking human speech and solving puzzles. Our parrots are hand-raised, socialized, and trained to be gentle and interactive. They require mental stimulation and love social interaction. These birds are ideal for experienced owners looking for a lifelong feathered companion. Each bird is vet-checked, DNA-sexed, and comes with a certificate of health. They thrive on a balanced diet and enjoy toys, puzzles, and time outside the cage.",
+      "category": "Pet",
+      "tag": "bird, parrot, talking bird, exotic",
+      "additional_info": {
+        "Species": "African Grey",
+        "Age": "1 year",
+        "Gender": "Male",
+        "Talkative": "Yes",
+        "Socialized": "Yes",
+        "Color": "Grey with Red Tail",
+        "Wings Clipped": "No",
+        "Diet": "Pellets and Fresh Fruits",
+        "Cage Included": "No",
+        "Location": "Florida"
+      },
+      "reviews": [
+        {
+          "review_name": "Rachel Z.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-02-25",
+          "description": "My parrot is amazing! He already says a few words and whistles."
+        },
+        {
+          "review_name": "Greg H.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-04-08",
+          "description": "Incredibly smart bird. Entertains us daily. Would definitely buy again."
+        }
+      ]
+    },
+    {
+      "product_id": 204,
+      "name": "Mini Lop Rabbit",
+      "price": 120.00,
+      "discount_price": 90.00,
+      "discount_percent": 25,
+      "rating": 4,
+      "rating_count": 40,
+      "selling_count": 21,
+      "short_description": "Friendly and fluffy Mini Lop rabbit, perfect for children and first-time owners.",
+      "long_description": "Mini Lop rabbits are known for their adorable floppy ears and sweet nature. They are small in size but big in personality. Great for children and adults alike, these rabbits are easy to care for and love to be held. Our bunnies are raised in a clean, social environment and are used to human contact. Each bunny comes with basic care instructions, a small bag of food, and is ready for their forever home. They thrive best with attention and gentle play.",
+      "category": "Pet",
+      "tag": "rabbit, bunny, mini lop, cuddly",
+      "additional_info": {
+        "Breed": "Mini Lop",
+        "Age": "3 months",
+        "Gender": "Female",
+        "Color": "White and Grey",
+        "Grooming Needs": "Low",
+        "Diet": "Hay, Pellets, Veggies",
+        "Social": "Yes",
+        "Litter Trained": "In Training",
+        "Indoor/Outdoor": "Indoor",
+        "Location": "Texas"
+      },
+      "reviews": [
+        {
+          "review_name": "Sophia K.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 4,
+          "date": "2025-03-19",
+          "description": "Our bunny is so cuddly and calm. The kids love her."
+        },
+        {
+          "review_name": "Ben R.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-04-03",
+          "description": "Easy to care for and really sweet. Good first pet for my daughter."
+        }
+      ]
+    },
+    {
+      "product_id": 205,
+      "name": "Red-Eared Slider Turtle",
+      "price": 70.00,
+      "discount_price": 60.00,
+      "discount_percent": 14,
+      "rating": 4,
+      "rating_count": 32,
+      "selling_count": 18,
+      "short_description": "Low-maintenance Red-Eared Slider turtle, ideal for calm, aquatic pet setups.",
+      "long_description": "Red-Eared Sliders are semi-aquatic turtles known for their red ear markings and curious behavior. They are relatively easy to care for with a proper tank setup and diet. These turtles enjoy basking under heat lamps and swimming in shallow waters. Our turtles are captive-bred and healthy, with care sheets provided. Perfect for beginner reptile keepers and educational setups, they can live for decades when properly cared for. Tank setup and maintenance advice is available upon request.",
+      "category": "Pet",
+      "tag": "turtle, reptile, aquatic, slider",
+      "additional_info": {
+        "Species": "Red-Eared Slider",
+        "Age": "6 months",
+        "Gender": "Unspecified",
+        "Shell Size": "4 inches",
+        "Tank Size Required": "20 gallons minimum",
+        "UVB Light Needed": "Yes",
+        "Diet": "Pellets, Greens, Insects",
+        "Activity Level": "Medium",
+        "Handling": "Occasional",
+        "Location": "Nevada"
+      },
+      "reviews": [
+        {
+          "review_name": "Jake D.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 4,
+          "date": "2025-03-01",
+          "description": "Cool little turtle! My son loves watching him swim."
+        },
+        {
+          "review_name": "Nina C.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 4,
+          "date": "2025-03-25",
+          "description": "Simple care and very active in the tank. Highly recommend for beginners."
+        }
+      ]
+    },
+    {
+      "product_id": 206,
+      "name": "Syrian Hamster",
+      "price": 30.00,
+      "discount_price": 25.00,
+      "discount_percent": 17,
+      "rating": 4,
+      "rating_count": 47,
+      "selling_count": 30,
+      "short_description": "Cute and curious Syrian Hamster, great for solo pet setups and small spaces.",
+      "long_description": "Syrian Hamsters, also known as teddy bear hamsters, are independent, clean, and easy to care for. They are solitary animals and do best when housed alone. Our hamsters are handled from a young age to ensure they are comfortable around people. They enjoy exploring tunnels and running on wheels. These small pets are ideal for kids and adults who want a low-maintenance but entertaining companion. Each comes with a starter care guide and sample food pack.",
+      "category": "Pet",
+      "tag": "hamster, syrian, rodent, small pet",
+      "additional_info": {
+        "Species": "Syrian",
+        "Age": "2 months",
+        "Color": "Golden",
+        "Cage Type": "Wire or Aquarium",
+        "Diet": "Grain Mix, Veggies, Protein",
+        "Nocturnal": "Yes",
+        "Tame": "Yes",
+        "Exercise Wheel Needed": "Yes",
+        "Handling Time": "Short Daily Sessions",
+        "Location": "Arizona"
+      },
+      "reviews": [
+        {
+          "review_name": "Ava W.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 4,
+          "date": "2025-04-12",
+          "description": "Very cute and active. Loves his wheel and hides treats!"
+        },
+        {
+          "review_name": "Leo S.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-04-15",
+          "description": "Arrived healthy and curious. My son's first pet and it's perfect."
+        }
+      ]
+    },
+    {
+      "product_id": 301,
+      "name": "Premium Dog Kibble Chicken & Rice",
+      "price": 60.00,
+      "discount_price": 48.00,
+      "discount_percent": 20,
+      "rating": 5,
+      "rating_count": 140,
+      "selling_count": 320,
+      "short_description": "Nutritious dry dog food with chicken and rice formula, perfect for all breeds.",
+      "long_description": "This premium dry kibble is crafted with real chicken and wholesome rice, offering a complete and balanced diet for adult dogs. Rich in protein and fortified with essential vitamins and minerals, it supports strong muscles, healthy digestion, and shiny coats. It’s ideal for dogs of all breeds and sizes. Made without artificial preservatives or colors. Easily digestible and packed with flavor, this kibble is sure to keep tails wagging. Every batch is tested for safety and quality.",
+      "category": "Pet Food",
+      "tag": "dog food, kibble, chicken, adult dogs",
+      "additional_info": {
+        "Flavor": "Chicken & Rice",
+        "Weight": "10kg",
+        "Age Range": "Adult",
+        "Breed Size": "All Breeds",
+        "Protein": "24%",
+        "Fat": "12%",
+        "Fiber": "4%",
+        "Storage": "Cool, Dry Place",
+        "Shelf Life": "12 Months",
+        "Origin": "USA"
+      },
+      "reviews": [
+        {
+          "review_name": "Tom H.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-03-22",
+          "description": "My Labrador loves this! Good digestion and no allergic reactions."
+        },
+        {
+          "review_name": "Clara F.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 4,
+          "date": "2025-04-10",
+          "description": "Hearty kibble, smells fresh. My Golden Retriever eats it happily!"
+        }
+      ]
+    },
+    {
+      "product_id": 302,
+      "name": "Grain-Free Cat Food – Salmon Recipe",
+      "price": 45.00,
+      "discount_price": 36.00,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 98,
+      "selling_count": 195,
+      "short_description": "High-protein grain-free dry cat food with fresh salmon and essential nutrients.",
+      "long_description": "This grain-free dry cat food features fresh salmon as the first ingredient, providing essential omega fatty acids for healthy skin and coat. It's formulated without grains, gluten, or fillers, making it ideal for cats with sensitivities. With added taurine and antioxidants, it promotes heart health and a strong immune system. Cats love the taste, and owners love the results. Suitable for cats of all life stages. Resealable packaging ensures lasting freshness.",
+      "category": "Pet Food",
+      "tag": "cat food, grain-free, salmon, high protein",
+      "additional_info": {
+        "Flavor": "Salmon",
+        "Weight": "5kg",
+        "Life Stage": "All",
+        "Grain-Free": "Yes",
+        "Protein": "32%",
+        "Taurine Added": "Yes",
+        "Preservatives": "No",
+        "Packaging": "Resealable Bag",
+        "Shelf Life": "18 Months",
+        "Made In": "Canada"
+      },
+      "reviews": [
+        {
+          "review_name": "Emily S.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 4,
+          "date": "2025-02-17",
+          "description": "My picky cat eats it without fuss. Fur looks much better!"
+        },
+        {
+          "review_name": "David M.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-03-01",
+          "description": "High-quality food. Our rescue cat took to it right away."
+        }
+      ]
+    },
+    {
+      "product_id": 303,
+      "name": "Tropical Fish Flakes",
+      "price": 15.00,
+      "discount_price": 12.00,
+      "discount_percent": 20,
+      "rating": 5,
+      "rating_count": 60,
+      "selling_count": 105,
+      "short_description": "Color-enhancing tropical fish flakes for community aquariums.",
+      "long_description": "Formulated with natural ingredients and color-enhancing nutrients, these tropical fish flakes are ideal for freshwater community aquariums. Rich in protein and essential vitamins, they support growth, immunity, and vibrant colors. Designed to float, the flakes allow for easy feeding and reduce waste. Perfect for tetras, guppies, gouramis, and other tropical fish. Free from artificial dyes. Use daily for best results and vibrant fish colors.",
+      "category": "Pet Food",
+      "tag": "fish food, tropical, aquarium, flakes",
+      "additional_info": {
+        "Type": "Flakes",
+        "Weight": "100g",
+        "Suitable For": "Tropical Fish",
+        "Color Enhancers": "Yes",
+        "Float/Sink": "Float",
+        "Daily Feeding": "Yes",
+        "Packaging": "Plastic Jar",
+        "Storage Tip": "Cool and Dry",
+        "No Dyes": "Yes",
+        "Made In": "Germany"
+      },
+      "reviews": [
+        {
+          "review_name": "Nora T.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-03-29",
+          "description": "Fish are so much more colorful now. No leftover waste!"
+        },
+        {
+          "review_name": "Zack E.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-04-11",
+          "description": "Perfect for my mixed tank. They all rush to eat it!"
+        }
+      ]
+    },
+    {
+      "product_id": 304,
+      "name": "Organic Rabbit Pellets – Herb Blend",
+      "price": 28.00,
+      "discount_price": 21.00,
+      "discount_percent": 25,
+      "rating": 4,
+      "rating_count": 42,
+      "selling_count": 73,
+      "short_description": "A healthy herb-infused pellet formula for adult rabbits, made with organic ingredients.",
+      "long_description": "Crafted from premium organic alfalfa and natural herbs, this rabbit food offers optimal nutrition for adult rabbits. The blend supports healthy digestion, strong teeth, and a shiny coat. Enriched with fiber, it promotes gut health while being tasty and crunchy for dental benefit. No added sugars, colors, or artificial preservatives. Ideal for daily feeding and recommended by vets for adult rabbits needing a natural diet. Comes in a resealable eco-pack.",
+      "category": "Pet Food",
+      "tag": "rabbit food, pellets, organic, herb blend",
+      "additional_info": {
+        "Flavor": "Herb Blend",
+        "Weight": "2.5kg",
+        "Organic": "Yes",
+        "Age Range": "Adult",
+        "Main Ingredients": "Alfalfa, Parsley, Mint",
+        "Sugar-Free": "Yes",
+        "Additives": "No artificial colors",
+        "Dental Health": "Supports teeth",
+        "Packaging": "Resealable Eco-pack",
+        "Made In": "UK"
+      },
+      "reviews": [
+        {
+          "review_name": "Lena B.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 4,
+          "date": "2025-02-18",
+          "description": "My bunny loves this mix! I noticed her teeth are better too."
+        },
+        {
+          "review_name": "Kyle R.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-04-01",
+          "description": "Best food I've tried for my rabbit. Natural and clean ingredients!"
+        }
+      ]
+    },
+    {
+      "product_id": 305,
+      "name": "Puppy Starter Wet Food – Lamb & Carrot",
+      "price": 35.00,
+      "discount_price": 28.00,
+      "discount_percent": 20,
+      "rating": 5,
+      "rating_count": 76,
+      "selling_count": 145,
+      "short_description": "Nutritious wet food designed for puppies’ growth with lamb, carrots, and DHA.",
+      "long_description": "This wet food is specially designed to support a puppy's early development. Packed with tender lamb, real carrots, and DHA for brain and vision growth, it's soft-textured for small jaws and weaning pups. The formula is grain-free, rich in protein, and easy to digest. Ideal for transitioning from mother's milk to solids. Includes calcium and omega-3s for bone and skin health. No artificial flavors. Veterinarian-formulated for daily use.",
+      "category": "Pet Food",
+      "tag": "puppy food, wet food, lamb, development",
+      "additional_info": {
+        "Flavor": "Lamb & Carrot",
+        "Weight": "400g (x6 cans)",
+        "Grain-Free": "Yes",
+        "Age Range": "Puppies",
+        "DHA Added": "Yes",
+        "Omega-3": "Yes",
+        "Texture": "Soft Wet",
+        "Digestibility": "High",
+        "No Additives": "Yes",
+        "Made In": "USA"
+      },
+      "reviews": [
+        {
+          "review_name": "Ashley C.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-03-19",
+          "description": "My puppy cleaned his bowl in minutes! Super soft and smells good."
+        },
+        {
+          "review_name": "Jordan K.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-04-14",
+          "description": "Perfect food for weaning. Noticed better energy and shiny coat!"
+        }
+      ]
+    },
+    {
+      "product_id": 306,
+      "name": "Parrot Mix with Fruits & Seeds",
+      "price": 22.00,
+      "discount_price": 17.60,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 55,
+      "selling_count": 102,
+      "short_description": "Tasty mix of seeds and dried fruits for parrots, rich in vitamins and minerals.",
+      "long_description": "Formulated for parrots’ unique dietary needs, this colorful mix includes sunflower seeds, pumpkin seeds, dried banana, papaya, and apple bits. It’s enriched with calcium, iron, and vitamin C for strong beaks, feathers, and immune support. Encourages natural foraging behavior and keeps birds mentally stimulated. No sugar or salt added. Suitable for daily feeding and great for African greys, macaws, and conures. Comes in a resealable bag for freshness.",
+      "category": "Pet Food",
+      "tag": "parrot food, seeds, fruits, bird mix",
+      "additional_info": {
+        "Contents": "Seeds & Dried Fruits",
+        "Weight": "1.2kg",
+        "Vitamin Enriched": "Yes",
+        "Sugar-Free": "Yes",
+        "Salt-Free": "Yes",
+        "Foraging": "Encourages activity",
+        "Species": "Parrots",
+        "Packaging": "Resealable Bag",
+        "Shelf Life": "9 Months",
+        "Origin": "Australia"
+      },
+      "reviews": [
+        {
+          "review_name": "Sophia D.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 4,
+          "date": "2025-02-26",
+          "description": "My African grey loves the banana bits. Great mix!"
+        },
+        {
+          "review_name": "Daniel J.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 4,
+          "date": "2025-03-30",
+          "description": "Fresh, crunchy, and colorful. Keeps my parrot engaged."
+        }
+      ]
+    },
+    {
+      "product_id": 301,
+      "name": "WhiskerFeast Salmon Delight Dry Cat Food",
+      "price": 45.00,
+      "discount_price": 33.75,
+      "discount_percent": 25,
+      "rating": 5,
+      "rating_count": 128,
+      "selling_count": 289,
+      "short_description": "Protein-rich dry food made with real salmon, tailored for adult cats’ health and taste.",
+      "long_description": "WhiskerFeast Salmon Delight is specially crafted for adult cats who crave quality and nutrition. Made with real salmon as the first ingredient, this protein-rich dry food supports muscle strength and energy. Enriched with omega-3 and omega-6 fatty acids, it promotes a shiny coat and healthy skin. It’s packed with essential nutrients, taurine, and antioxidants to support heart and immune health. No artificial colors or fillers—just a delicious, crunchy kibble cats adore.",
+      "category": "Kitty Food",
+      "tag": "dry food, salmon, adult cats, high protein",
+      "additional_info": {
+        "Flavor": "Salmon",
+        "Weight": "3.5 lb",
+        "Protein Content": "36%",
+        "Fat Content": "15%",
+        "Fiber Content": "4%",
+        "Grain-Free": "Yes",
+        "Age Suitability": "Adult",
+        "Omega Fatty Acids": "Yes",
+        "Shelf Life": "12 months",
+        "Origin": "USA"
+      },
+      "reviews": [
+        {
+          "review_name": "Megan D.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-02-08",
+          "description": "My cat gobbles this up like a treat! She’s more energetic and her fur looks amazing."
+        },
+        {
+          "review_name": "Tyler J.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 4,
+          "date": "2025-03-22",
+          "description": "Good ingredients and my picky cat finally finishes her bowl!"
+        }
+      ]
+    },
+    {
+      "product_id": 302,
+      "name": "MeowMeals Chicken & Pumpkin Wet Cat Food",
+      "price": 38.00,
+      "discount_price": 30.40,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 94,
+      "selling_count": 197,
+      "short_description": "Grain-free wet food made with shredded chicken and pumpkin for easy digestion.",
+      "long_description": "MeowMeals Chicken & Pumpkin recipe offers cats a nutritious and hydrating mealtime. This grain-free wet food is made with real shredded chicken and fiber-rich pumpkin, aiding digestion and improving gut health. Rich in moisture and packed with natural vitamins, it supports kidney function and keeps cats hydrated. There are no by-products, preservatives, or artificial flavors—only clean, wholesome ingredients in every pouch.",
+      "category": "Kitty Food",
+      "tag": "wet food, chicken, pumpkin, digestion",
+      "additional_info": {
+        "Flavor": "Chicken & Pumpkin",
+        "Weight": "3 oz (per pouch)",
+        "Moisture Content": "78%",
+        "Suitable For": "Sensitive stomachs",
+        "Taurine": "Yes",
+        "Grain-Free": "Yes",
+        "Texture": "Shredded",
+        "Preservatives": "None",
+        "Calories": "65 kcal/pouch",
+        "Packaging": "Eco pouch"
+      },
+      "reviews": [
+        {
+          "review_name": "Rachel P.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 4,
+          "date": "2025-01-18",
+          "description": "Great for my senior cat’s tummy. She hasn’t had any issues since we switched."
+        },
+        {
+          "review_name": "Josh M.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 4,
+          "date": "2025-03-03",
+          "description": "Soft texture and good smell. My cats love it—and I feel good about the ingredients."
+        }
+      ]
+    },
+    {
+      "product_id": 303,
+      "name": "PurrNatural Tuna Bites – Freeze Dried",
+      "price": 27.00,
+      "discount_price": 21.60,
+      "discount_percent": 20,
+      "rating": 5,
+      "rating_count": 162,
+      "selling_count": 342,
+      "short_description": "Single-ingredient freeze-dried tuna treats perfect for training or snacking.",
+      "long_description": "PurrNatural Tuna Bites are freeze-dried, single-ingredient treats made with 100% wild-caught tuna. Ideal for both training and everyday treating, these bites are packed with natural protein and nutrients. With no grains, additives, or fillers, they're perfect for cats with allergies or food sensitivities. The light, crunchy texture makes them irresistible and easy to break into small training portions. Convenient resealable pouch ensures freshness and crunch every time.",
+      "category": "Kitty Food",
+      "tag": "treats, tuna, freeze dried, single ingredient",
+      "additional_info": {
+        "Ingredients": "100% Tuna",
+        "Texture": "Crunchy Freeze-Dried",
+        "Packaging": "Resealable Pouch",
+        "Protein Content": "70%",
+        "Calories": "2 kcal/treat",
+        "Additive-Free": "Yes",
+        "Sourced": "Wild-caught",
+        "Shelf Life": "18 months",
+        "Hypoallergenic": "Yes",
+        "Country of Origin": "Canada"
+      },
+      "reviews": [
+        {
+          "review_name": "Becca W.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-03-12",
+          "description": "My cat does flips for these! And I love that they’re just tuna—nothing else."
+        },
+        {
+          "review_name": "Derek L.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-04-06",
+          "description": "Crispy, fresh, and smell like real fish. Even our picky eater approves."
+        }
+      ]
+    },
+    {
+      "product_id": 304,
+      "name": "NaturePaws Indoor Cat Formula",
+      "price": 42.00,
+      "discount_price": 33.60,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 89,
+      "selling_count": 213,
+      "short_description": "Balanced dry food for indoor cats, formulated for weight and hairball control.",
+      "long_description": "NaturePaws Indoor Cat Formula is specially designed to meet the needs of less active indoor cats. Featuring a balanced blend of high-quality chicken, fiber, and natural herbs, this formula helps reduce hairballs and maintain a healthy weight. It contains added prebiotics for digestive health and omega-6 fatty acids to support a soft, shiny coat. With a crunchy texture that supports dental health and no artificial preservatives, it's the smart choice for indoor cats of all ages.",
+      "category": "Kitty Food",
+      "tag": "indoor cat, hairball control, dry food, weight management",
+      "additional_info": {
+        "Flavor": "Chicken Blend",
+        "Weight": "6 lb",
+        "Fiber Content": "6%",
+        "Protein Content": "30%",
+        "Fat Content": "12%",
+        "Hairball Formula": "Yes",
+        "Caloric Content": "350 kcal/cup",
+        "Prebiotics": "Included",
+        "Dental Health": "Crunchy kibble",
+        "Origin": "USA"
+      },
+      "reviews": [
+        {
+          "review_name": "Emily R.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 4,
+          "date": "2025-03-09",
+          "description": "Great option for our indoor kitty. Hairballs are definitely less frequent now."
+        },
+        {
+          "review_name": "Andrew K.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 4,
+          "date": "2025-03-27",
+          "description": "My cats enjoy the crunch and it’s helped keep their weight stable indoors."
+        }
+      ]
+    },
+    {
+      "product_id": 305,
+      "name": "Feline Feast Duck & Sweet Potato Recipe",
+      "price": 48.00,
+      "discount_price": 36.00,
+      "discount_percent": 25,
+      "rating": 5,
+      "rating_count": 144,
+      "selling_count": 277,
+      "short_description": "Grain-free duck formula with sweet potatoes and vitamins for active cats.",
+      "long_description": "Feline Feast Duck & Sweet Potato recipe is an excellent alternative for cats with poultry allergies or sensitivities. Duck is the single source of animal protein, making this a hypoallergenic choice. Sweet potatoes provide digestible energy and fiber, while added taurine supports vision and heart health. It’s free from corn, soy, wheat, and artificial colors. This recipe is suitable for cats with active lifestyles and specific dietary needs.",
+      "category": "Kitty Food",
+      "tag": "duck, sweet potato, hypoallergenic, grain-free",
+      "additional_info": {
+        "Flavor": "Duck & Sweet Potato",
+        "Weight": "5 lb",
+        "Protein Content": "35%",
+        "Fat Content": "14%",
+        "Carbohydrates": "Limited",
+        "Life Stage": "Adult",
+        "Hypoallergenic": "Yes",
+        "Taurine": "Added",
+        "Origin": "USA",
+        "Colorants": "None"
+      },
+      "reviews": [
+        {
+          "review_name": "Carla M.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-04-02",
+          "description": "Our allergic kitty has no issues with this food—finally something safe and tasty!"
+        },
+        {
+          "review_name": "Tom S.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-04-12",
+          "description": "Highly nutritious and smells great—my two cats absolutely love it."
+        }
+      ]
+    },
+    {
+      "product_id": 306,
+      "name": "HappyWhiskers Kitten Formula with Goat Milk",
+      "price": 39.00,
+      "discount_price": 31.20,
+      "discount_percent": 20,
+      "rating": 5,
+      "rating_count": 112,
+      "selling_count": 245,
+      "short_description": "Nutritious soft food for kittens, enriched with goat milk for growth support.",
+      "long_description": "HappyWhiskers Kitten Formula provides essential nourishment during a kitten’s crucial early months. Made with soft minced chicken and enriched with goat milk, it offers high digestibility and immune-boosting properties. The added DHA helps brain and vision development, while a complete vitamin blend ensures strong bones and teeth. Free from artificial flavors or additives, this formula supports healthy growth and early dietary transitions. Perfect for weaning or supplementing nursing kittens.",
+      "category": "Kitty Food",
+      "tag": "kitten food, goat milk, growth, DHA, soft food",
+      "additional_info": {
+        "Flavor": "Chicken & Goat Milk",
+        "Texture": "Minced",
+        "Weight": "4 oz (per can)",
+        "DHA Enriched": "Yes",
+        "Suitable For": "Kittens (0-12 months)",
+        "Digestibility": "High",
+        "Artificial Additives": "No",
+        "Growth Support": "Yes",
+        "Calcium": "Enhanced",
+        "Origin": "New Zealand"
+      },
+      "reviews": [
+        {
+          "review_name": "Nina H.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-03-29",
+          "description": "My kittens love this! The texture and smell are perfect for weaning them off milk."
+        },
+        {
+          "review_name": "Brad E.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-04-14",
+          "description": "Helped our foster kittens grow stronger and more active in just a few weeks."
+        }
+      ]
+    },
+    {
+      "product_id": 404,
+      "name": "Yeowww! Catnip Banana Toy",
+      "price": 6.99,
+      "discount_price": 5.24,
+      "discount_percent": 25,
+      "rating": 5,
+      "rating_count": 1500,
+      "selling_count": 8200,
+      "short_description": "Catnip-stuffed banana toy made with durable fabric and irresistible aroma.",
+      "long_description": "The Yeowww! Catnip Banana Toy is wildly popular among felines for a reason—it's stuffed to the core with 100% organic catnip and made from durable cotton twill. Each toy is hand-sewn and filled with potent catnip that drives cats wild. Great for batting, chewing, and kicking, this toy provides tons of entertainment while promoting healthy physical activity.",
+      "category": "Pet Toy",
+      "tag": "cat toy, catnip, banana, organic, kicking",
+      "additional_info": {
+        "Material": "Cotton Twill",
+        "Catnip": "100% Organic",
+        "Handmade": "Yes",
+        "Washable": "No",
+        "Shape": "Banana",
+        "Scent Longevity": "Long-lasting",
+        "Chewable": "Yes",
+        "Interactive": "Yes",
+        "Non-toxic": "Yes",
+        "Country of Origin": "USA"
+      },
+      "reviews": [
+        {
+          "review_name": "Karen B.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-04-01",
+          "description": "My cat goes absolutely bananas over this toy. Total hit!"
+        },
+        {
+          "review_name": "Brian M.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-04-03",
+          "description": "He guards it like it’s gold. Catnip quality is excellent!"
+        }
+      ]
+    },
+    {
+      "product_id": 405,
+      "name": "Chuckit! Ultra Ball Dog Toy",
+      "price": 9.99,
+      "discount_price": 7.49,
+      "discount_percent": 25,
+      "rating": 5,
+      "rating_count": 4000,
+      "selling_count": 12000,
+      "short_description": "Durable rubber fetch ball for dogs, designed for high bounce and water play.",
+      "long_description": "The Chuckit! Ultra Ball is designed for active dogs who love a game of fetch. Made from high-quality rubber, it offers extreme durability and bounce, plus it floats—making it ideal for land or water play. It fits all standard Chuckit! launchers and is easy to clean, offering hours of energetic outdoor fun.",
+      "category": "Pet Toy",
+      "tag": "dog toy, fetch, ball, rubber, bouncy",
+      "additional_info": {
+        "Material": "Natural Rubber",
+        "Floats": "Yes",
+        "Bounce": "High",
+        "Compatible With": "Chuckit! Launcher",
+        "Durability": "Extra Tough",
+        "Size Options": "S, M, L",
+        "Color": "Orange/Blue",
+        "Easy to Clean": "Yes",
+        "Latex Free": "Yes",
+        "Outdoor Use": "Yes"
+      },
+      "reviews": [
+        {
+          "review_name": "Olivia J.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 5,
+          "date": "2025-03-29",
+          "description": "Our dog is obsessed with this ball. It’s super bouncy and holds up well!"
+        },
+        {
+          "review_name": "Matt T.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 4,
+          "date": "2025-04-05",
+          "description": "Great for fetch at the park. Bonus: it floats in the lake!"
+        }
+      ]
+    },
+    {
+      "product_id": 406,
+      "name": "Valonii Automatic Laser Toy for Cats",
+      "price": 24.99,
+      "discount_price": 19.99,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 1100,
+      "selling_count": 3500,
+      "short_description": "Automatic cat laser toy with adjustable speeds and motion patterns for solo play.",
+      "long_description": "The Valonii Automatic Laser Toy gives your cat a thrilling and interactive experience. It moves the laser dot in unpredictable patterns across floors and walls, keeping cats engaged and mentally stimulated. With multiple speed settings, an auto shut-off timer, and a rechargeable battery, it’s designed for safe, solo fun—even when you're not home.",
+      "category": "Pet Toy",
+      "tag": "cat toy, laser, automatic, interactive, solo play",
+      "additional_info": {
+        "Power Source": "Rechargeable Battery",
+        "Auto Timer": "Yes",
+        "Speed Modes": 3,
+        "Play Area": "Up to 15 ft",
+        "Material": "Plastic",
+        "Portability": "High",
+        "Light Source": "Red Laser",
+        "Noise Level": "Low",
+        "Color": "White",
+        "Safety Certified": "Yes"
+      },
+      "reviews": [
+        {
+          "review_name": "Rachel K.",
+          "image": "https://cdn.shopify.com/s/files/1/0639/1237/8602/files/Undercut_ll_480x480.jpg?v=1716635488",
+          "rating": 4,
+          "date": "2025-04-10",
+          "description": "Good solo play for when I’m at work. My cat never gets bored!"
+        },
+        {
+          "review_name": "Eric D.",
+          "image": "https://thumbs.dreamstime.com/b/young-man-standing-crossed-arms-pose-square-composition-photo-man-portrait-young-happy-man-smiling-face-male-model-187062215.jpg",
+          "rating": 5,
+          "date": "2025-04-12",
+          "description": "Runs quietly and unpredictably. My cats love chasing the light!"
+        }
+      ]
+    },
+    {
+      "product_id": 501,
+      "name": "Vet's Best Flea & Tick Home Spray",
+      "price": 14.99,
+      "discount_price": 11.99,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 3200,
+      "selling_count": 12500,
+      "short_description": "Natural flea and tick spray for dogs and cats made with certified natural oils. Kills fleas, flea eggs, and ticks on contact.",
+      "long_description": "Vet's Best Flea & Tick Home Spray uses a unique blend of certified natural oils including peppermint oil and eugenol (from clove plants) to kill fleas, flea eggs, and ticks on contact. This plant-based formula is gentle enough to use around the whole family while being tough on pests. The spray can be used directly on your pet (dogs and cats 12 weeks or older) as well as on pet bedding, crates, furniture, and carpets. Unlike many chemical-based products, this spray won't leave sticky residues and has a pleasant, natural scent. Safe for use in homes with multiple pets when used as directed.",
+      "category": "Pet Medicine",
+      "tag": "flea treatment, tick control, natural remedy, pest spray, pet care",
+      "additional_info": {
+        "Active Ingredients": "Peppermint Oil, Eugenol",
+        "For Pets": "Dogs & Cats (12+ weeks)",
+        "Volume": "32 fl oz",
+        "Natural": "Yes",
+        "Chemical-Free": "Yes",
+        "Scent": "Minty",
+        "Application": "Spray",
+        "Frequency": "As needed",
+        "Waterproof": "No",
+        "Vet Recommended": "Yes",
+        "Organic": "No",
+        "Safe for Furniture": "Yes",
+        "Country of Origin": "USA",
+        "EPA Registered": "Yes",
+        "Shelf Life": "2 years"
+      },
+      "reviews": [
+        {
+          "review_name": "Sarah J.",
+          "image": "https://randomuser.me/api/portraits/women/65.jpg",
+          "rating": 5,
+          "date": "2025-03-15",
+          "description": "Finally found a flea treatment that doesn't make my dog scratch more! Works great and smells nice too."
+        },
+        {
+          "review_name": "Michael T.",
+          "image": "https://randomuser.me/api/portraits/men/32.jpg",
+          "rating": 4,
+          "date": "2025-03-22",
+          "description": "Effective spray, though I wish the scent lasted longer. My cats tolerate it better than chemical options."
+        }
+      ]
+    },
+    {
+      "product_id": 502,
+      "name": "Pro-Sense Digestive Aid Tablets",
+      "price": 12.49,
+      "discount_price": 9.99,
+      "discount_percent": 20,
+      "rating": 5,
+      "rating_count": 2800,
+      "selling_count": 9800,
+      "short_description": "Vet-recommended digestive supplements for dogs with natural enzymes to support healthy digestion and nutrient absorption.",
+      "long_description": "Pro-Sense Digestive Aid Tablets provide targeted digestive support for dogs of all ages and sizes. These vet-recommended tablets contain a blend of natural enzymes including amylase, protease, and lipase to help break down proteins, fats, and carbohydrates for optimal nutrient absorption. The formula also includes prebiotics to promote beneficial gut bacteria and pumpkin powder as a natural source of fiber. These tasty chewable tablets help maintain regular bowel movements and reduce occasional digestive upset. Ideal for dogs with sensitive stomachs or those transitioning to new foods. Made in the USA with globally sourced ingredients in FDA-registered facilities that meet strict quality standards.",
+      "category": "Pet Medicine",
+      "tag": "digestive aid, dog supplements, probiotics, enzymes, stomach health",
+      "additional_info": {
+        "Active Ingredients": "Amylase, Protease, Lipase",
+        "For Pets": "Dogs only",
+        "Count": "60 tablets",
+        "Natural": "Yes",
+        "Flavor": "Beef",
+        "Age Range": "All life stages",
+        "Grain-Free": "Yes",
+        "Prebiotics": "Yes",
+        "Dosage": "1 tablet per 25 lbs",
+        "Vet Recommended": "Yes",
+        "Made in": "USA",
+        "Shelf Life": "18 months",
+        "Organic": "No",
+        "Prescription": "No",
+        "Safety Seal": "Yes"
+      },
+      "reviews": [
+        {
+          "review_name": "Lisa R.",
+          "image": "https://randomuser.me/api/portraits/women/44.jpg",
+          "rating": 5,
+          "date": "2025-02-10",
+          "description": "My senior dog's digestion improved within days! He thinks they're treats so administration is easy."
+        },
+        {
+          "review_name": "David K.",
+          "image": "https://randomuser.me/api/portraits/men/75.jpg",
+          "rating": 5,
+          "date": "2025-03-05",
+          "description": "These saved us during our dog's food transition. No more upset stomach or diarrhea."
+        }
+      ]
+    },
+    {
+      "product_id": 503,
+      "name": "Zymox Ear Solution with Hydrocortisone",
+      "price": 24.99,
+      "discount_price": 19.99,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 1800,
+      "selling_count": 6500,
+      "short_description": "Advanced enzymatic solution for ear infections in dogs and cats with 1% hydrocortisone to relieve itching and inflammation.",
+      "long_description": "Zymox Ear Solution with 1% Hydrocortisone provides effective relief for pets suffering from ear infections, inflammation, and itching. This unique enzymatic formula contains three active enzymes (lysozyme, lactoferrin, and lactoperoxidase) that work synergistically to break down the biofilm protecting bacteria and yeast in the ear canal. The addition of hydrocortisone provides anti-inflammatory and anti-itch benefits for immediate comfort. Unlike antibiotics, this solution doesn't require pre-cleaning of ears and is effective against both bacterial and fungal infections. Safe for dogs and cats of all ages when used as directed. The no-sting formula makes application easier than traditional ear medications.",
+      "category": "Pet Medicine",
+      "tag": "ear infection, ear cleaner, hydrocortisone, enzymatic, dog ear care",
+      "additional_info": {
+        "Active Ingredients": "Hydrocortisone 1%, Enzymes",
+        "For Pets": "Dogs & Cats",
+        "Volume": "1.25 fl oz",
+        "Prescription": "No",
+        "Antibiotic-Free": "Yes",
+        "Targets": "Bacteria, Yeast, Fungi",
+        "Application": "Drops",
+        "Treatment Duration": "7 days",
+        "Age Range": "All life stages",
+        "Vet Recommended": "Yes",
+        "Made in": "USA",
+        "Shelf Life": "3 years",
+        "Waterproof": "No",
+        "Fragrance-Free": "Yes",
+        "Safety Seal": "Yes"
+      },
+      "reviews": [
+        {
+          "review_name": "Emily S.",
+          "image": "https://randomuser.me/api/portraits/women/33.jpg",
+          "rating": 5,
+          "date": "2025-01-18",
+          "description": "After years of chronic ear infections, this is the only product that worked for my Cocker Spaniel!"
+        },
+        {
+          "review_name": "Robert P.",
+          "image": "https://randomuser.me/api/portraits/men/68.jpg",
+          "rating": 4,
+          "date": "2025-02-28",
+          "description": "Great alternative to antibiotics. My cat's ear infection cleared up in 5 days."
+        }
+      ]
+    },
+    {
+      "product_id": 504,
+      "name": "Nutri-Vet Aspirin for Dogs",
+      "price": 16.99,
+      "discount_price": null,
+      "discount_percent": 0,
+      "rating": 3,
+      "rating_count": 950,
+      "selling_count": 4200,
+      "short_description": "Veterinary-formulated aspirin tablets for temporary relief of pain and inflammation in dogs.",
+      "long_description": "Nutri-Vet Aspirin for Dogs provides temporary relief from pain and inflammation associated with canine arthritis, hip dysplasia, and other joint issues. These veterinary-formulated tablets contain buffered aspirin which is gentler on a dog's stomach than regular aspirin. Each tablet is scored for easy dosing based on your dog's weight. Not recommended for cats or other animals. Always consult your veterinarian before use, especially for dogs with sensitive stomachs or pre-existing conditions. These tablets should not be used long-term without veterinary supervision. Includes liver flavor to make administration easier. Store in a cool, dry place away from children and other pets.",
+      "category": "Pet Medicine",
+      "tag": "dog pain relief, aspirin, joint pain, arthritis, inflammation",
+      "additional_info": {
+        "Active Ingredient": "Buffered Aspirin",
+        "For Pets": "Dogs only",
+        "Count": "60 tablets",
+        "Strength": "120mg",
+        "Flavor": "Liver",
+        "Age Range": "Adult dogs",
+        "Prescription": "No",
+        "Vet Recommended": "Yes",
+        "Made in": "USA",
+        "Shelf Life": "2 years",
+        "Safety Seal": "Yes",
+        "Dosage": "1 tablet per 30-40 lbs",
+        "Not For": "Cats or other animals",
+        "Storage": "Cool, dry place",
+        "Consult Vet": "Recommended"
+      },
+      "reviews": [
+        {
+          "review_name": "Jennifer L.",
+          "image": "https://randomuser.me/api/portraits/women/28.jpg",
+          "rating": 3,
+          "date": "2025-03-12",
+          "description": "Helps my old Lab move better, but sometimes upsets his stomach if given without food."
+        },
+        {
+          "review_name": "Thomas W.",
+          "image": "https://randomuser.me/api/portraits/men/53.jpg",
+          "rating": 4,
+          "date": "2025-02-15",
+          "description": "Good for occasional use after my dog's long hikes. Vet approved this for short-term pain relief."
+        }
+      ]
+    },
+    {
+      "product_id": 505,
+      "name": "PetArmor Plus Flea & Tick Prevention",
+      "price": 49.99,
+      "discount_price": 39.99,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 4100,
+      "selling_count": 15800,
+      "short_description": "Vet-quality flea and tick treatment for dogs with the same active ingredients as Frontline Plus at a lower price.",
+      "long_description": "PetArmor Plus provides vet-quality flea and tick protection for dogs at a more affordable price point. Containing the same active ingredients (fipronil and (S)-methoprene) as the leading brand, this topical solution kills fleas, flea eggs, flea larvae, ticks, and chewing lice for up to 30 days. The waterproof formula keeps working even after bathing or swimming. Easy-to-apply pre-measured doses are available for dogs of all sizes. Starts working within 24 hours of application. Not recommended for puppies under 8 weeks or cats. Each package contains 3 monthly treatments. Apply to skin between shoulder blades for best results. Made in the USA with globally sourced ingredients.",
+      "category": "Pet Medicine",
+      "tag": "flea prevention, tick treatment, topical solution, monthly treatment, pet armor",
+      "additional_info": {
+        "Active Ingredients": "Fipronil, (S)-methoprene",
+        "For Pets": "Dogs only",
+        "Count": "3 treatments",
+        "Waterproof": "Yes",
+        "Age Minimum": "8 weeks",
+        "Weight Ranges": "Available for all sizes",
+        "Duration": "30 days per application",
+        "Prescription": "No",
+        "Made in": "USA",
+        "Shelf Life": "2 years",
+        "Application": "Topical",
+        "Starts Working": "Within 24 hours",
+        "Kills": "Fleas, Ticks, Lice",
+        "Prevents": "Flea eggs, larvae",
+        "Not For": "Cats"
+      },
+      "reviews": [
+        {
+          "review_name": "Amanda B.",
+          "image": "https://randomuser.me/api/portraits/women/87.jpg",
+          "rating": 5,
+          "date": "2025-01-30",
+          "description": "Same effectiveness as Frontline at half the price! My dogs have been flea-free for 2 years using this."
+        },
+        {
+          "review_name": "Daniel R.",
+          "image": "https://randomuser.me/api/portraits/men/91.jpg",
+          "rating": 4,
+          "date": "2025-03-20",
+          "description": "Works well for our three dogs. Occasionally find a dead tick but no live ones since we started using it."
+        }
+      ]
+    },
+    {
+      "product_id": 601,
+      "name": "Golden Retriever Puppy Adoption",
+      "price": 350.00,
+      "discount_price": 300.00,
+      "discount_percent": 14,
+      "rating": 5,
+      "rating_count": 42,
+      "selling_count": 18,
+      "short_description": "Adorable 8-week-old Golden Retriever puppies, vaccinated and vet-checked. Raised in loving home environment.",
+      "long_description": "Our Golden Retriever puppies come from champion bloodlines with excellent temperaments. Each puppy has received their first set of vaccinations, been dewormed, and undergone a thorough veterinary examination. They're raised in our home with constant human interaction and early socialization. Puppies come with AKC registration papers, health guarantee, starter food package, and care instructions. Golden Retrievers are known for their intelligence, loyalty, and friendly nature, making them excellent family pets. These puppies have been introduced to basic crate training and housebreaking concepts. Adoption includes lifetime breeder support and training advice.",
+      "category": "Pet Adoption",
+      "tag": "dog adoption, golden retriever, puppy, family pet, akc registered",
+      "additional_info": {
+        "Breed": "Golden Retriever",
+        "Age": "8 weeks",
+        "Color": "Cream to Golden",
+        "Gender": "Males & Females Available",
+        "Vaccinations": "First set completed",
+        "Health Guarantee": "1 year",
+        "AKC Registered": "Yes",
+        "Spayed/Neutered": "No (will require at 6 months)",
+        "Current Weight": "8-10 lbs",
+        "Temperament": "Friendly, Intelligent",
+        "Good With": "Children, Other Dogs",
+        "House Training": "Started",
+        "Crate Training": "Started",
+        "Includes": "Starter food, blanket with litter scent",
+        "Adoption Process": "Application, Interview, Contract"
+      },
+      "reviews": [
+        {
+          "review_name": "The Johnson Family",
+          "image": "https://randomuser.me/api/portraits/women/45.jpg",
+          "rating": 5,
+          "date": "2025-03-10",
+          "description": "Max has been the perfect addition to our family! The adoption process was smooth and the breeder provided excellent support."
+        },
+        {
+          "review_name": "Michael R.",
+          "image": "https://randomuser.me/api/portraits/men/22.jpg",
+          "rating": 5,
+          "date": "2025-02-28",
+          "description": "Our puppy was exactly as described - healthy, socialized, and beautiful. The health records were thorough and accurate."
+        }
+      ]
+    },
+    {
+      "product_id": 602,
+      "name": "Domestic Shorthair Kitten Adoption",
+      "price": 150.00,
+      "discount_price": 100.00,
+      "discount_percent": 33,
+      "rating": 4,
+      "rating_count": 36,
+      "selling_count": 25,
+      "short_description": "Adorable 10-week-old Domestic Shorthair kittens, spayed/neutered, vaccinated, and litter box trained.",
+      "long_description": "Our Domestic Shorthair kittens are raised in a foster home with cats, dogs, and children for optimal socialization. Each kitten has been spayed/neutered, received age-appropriate vaccinations, tested negative for FIV/FeLV, and is current on flea prevention. They're fully litter box trained and accustomed to regular handling. Kittens come with a starter kit including food samples, toys, and care instructions. These mixed-breed cats exhibit various colors and patterns, with the sturdy health typical of domestic shorthairs. Adoption includes 30 days of pet insurance and follow-up support. Perfect for first-time cat owners or experienced pet parents looking for a loving companion.",
+      "category": "Pet Adoption",
+      "tag": "cat adoption, kitten, domestic shorthair, spayed, vaccinated",
+      "additional_info": {
+        "Breed": "Domestic Shorthair",
+        "Age": "10 weeks",
+        "Colors Available": "Tabby, Black, Tuxedo, Calico",
+        "Gender": "Males & Females Available",
+        "Vaccinations": "FVRCP #1 & #2",
+        "Spayed/Neutered": "Yes",
+        "FIV/FeLV Tested": "Negative",
+        "Litter Trained": "Yes",
+        "Good With": "Cats, Dogs, Children",
+        "Health Guarantee": "30 days",
+        "Includes": "Starter food, toys, care guide",
+        "Adoption Process": "Application, Meet & Greet",
+        "Special Needs": "None",
+        "Personality": "Playful, Affectionate",
+        "Origin": "Rescue"
+      },
+      "reviews": [
+        {
+          "review_name": "Sarah M.",
+          "image": "https://randomuser.me/api/portraits/women/33.jpg",
+          "rating": 5,
+          "date": "2025-04-05",
+          "description": "Luna adapted to our home immediately! She was clearly well-socialized and came perfectly healthy."
+        },
+        {
+          "review_name": "David & Emily K.",
+          "image": "https://randomuser.me/api/portraits/men/55.jpg",
+          "rating": 4,
+          "date": "2025-03-22",
+          "description": "Our kitten was shy at first but warmed up quickly. The adoption fee included everything promised."
+        }
+      ]
+    },
+    {
+      "product_id": 603,
+      "name": "Parakeet Adoption Pair",
+      "price": 80.00,
+      "discount_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 18,
+      "selling_count": 12,
+      "short_description": "Beautiful bonded pair of young parakeets, hand-tamed and ready for their forever home.",
+      "long_description": "Our parakeet pairs consist of young, healthy birds that have been hand-tamed and socialized. Each pair is carefully matched for compatibility and includes one male and one female (unless otherwise requested). Birds come with a health check, clipped wings (optional), and are accustomed to human interaction. These intelligent birds can learn to mimic speech and perform tricks with proper training. Adoption includes a care guide, sample food, and basic training tips. Parakeets thrive in pairs and make delightful pets with their cheerful chirping and playful antics. Perfect for first-time bird owners or experienced aviculturists. Cage and accessories available separately.",
+      "category": "Pet Adoption",
+      "tag": "bird adoption, parakeet, budgie, hand-tamed, bonded pair",
+      "additional_info": {
+        "Species": "Melopsittacus undulatus",
+        "Age": "4-6 months",
+        "Colors Available": "Blue, Green, Yellow",
+        "Sex": "Male/Female Pairs",
+        "Taming Level": "Hand-tamed",
+        "Vocal Ability": "Can learn words",
+        "Health Check": "Completed",
+        "Wing Clipping": "Optional",
+        "Diet": "Seed mix, pellets, vegetables",
+        "Cage Requirements": "Minimum 18x18x24 inches",
+        "Lifespan": "7-15 years",
+        "Noise Level": "Moderate",
+        "Temperament": "Social, Playful",
+        "Bonded": "Yes",
+        "Adoption Includes": "Care guide, food samples"
+      },
+      "reviews": [
+        {
+          "review_name": "Ava L.",
+          "image": "https://randomuser.me/api/portraits/women/28.jpg",
+          "rating": 5,
+          "date": "2025-02-15",
+          "description": "Our parakeets were singing within hours of coming home! Clearly well-cared for and socialized."
+        },
+        {
+          "review_name": "Thomas R.",
+          "image": "https://randomuser.me/api/portraits/men/62.jpg",
+          "rating": 4,
+          "date": "2025-03-01",
+          "description": "Beautiful, healthy birds. One was shyer than described but is warming up nicely with patience."
+        }
+      ]
+    },
+    {
+      "product_id": 604,
+      "name": "Rabbit Adoption Bundle",
+      "price": 120.00,
+      "discount_price": 100.00,
+      "discount_percent": 17,
+      "rating": 5,
+      "rating_count": 24,
+      "selling_count": 15,
+      "short_description": "Adorable Holland Lop rabbits, litter box trained and socialized, with starter kit included.",
+      "long_description": "Our Holland Lop rabbits are bred for excellent temperament and come litter box trained and socialized. Each bunny has been handled daily since birth and is comfortable with human interaction. Rabbits are spayed/neutered, vaccinated against RHDV2, and come with a health certificate. Adoption bundle includes starter kit with hay, pellets, litter, food bowl, water bottle, and care guide. These compact-sized rabbits (3-4 lbs when fully grown) are perfect for families, singles, or seniors. Known for their floppy ears and sweet dispositions, Holland Lops make wonderful indoor pets. Adoption includes lifetime breeder support and rabbit care advice.",
+      "category": "Pet Adoption",
+      "tag": "rabbit adoption, holland lop, litter trained, vaccinated, starter kit",
+      "additional_info": {
+        "Breed": "Holland Lop",
+        "Age": "12 weeks",
+        "Colors Available": "Broken, Solid, Pointed",
+        "Gender": "Males & Females Available",
+        "Spayed/Neutered": "Yes",
+        "Vaccinations": "RHDV2",
+        "Litter Trained": "Yes",
+        "Adult Size": "3-4 lbs",
+        "Temperament": "Gentle, Curious",
+        "Good With": "Gentle Children",
+        "Diet": "Hay, Pellets, Vegetables",
+        "Housing": "Indoor recommended",
+        "Life Expectancy": "7-12 years",
+        "Includes": "Starter kit, care guide",
+        "Adoption Process": "Application, Home Check"
+      },
+      "reviews": [
+        {
+          "review_name": "The Chen Family",
+          "image": "https://randomuser.me/api/portraits/women/51.jpg",
+          "rating": 5,
+          "date": "2025-03-18",
+          "description": "Thumper was litter trained just as promised! The starter kit made the transition so easy."
+        },
+        {
+          "review_name": "Gregory S.",
+          "image": "https://randomuser.me/api/portraits/men/44.jpg",
+          "rating": 5,
+          "date": "2025-02-10",
+          "description": "Excellent experience. Our rabbit was healthy, socialized, and came with everything we needed to start."
+        }
+      ]
+    },
+    {
+      "product_id": 605,
+      "name": "Senior Dog Adoption Special",
+      "price": 75.00,
+      "discount_price": 50.00,
+      "discount_percent": 33,
+      "rating": 4,
+      "rating_count": 30,
+      "selling_count": 8,
+      "short_description": "Loving senior dogs (5+ years) fully vetted, trained, and seeking forever retirement homes.",
+      "long_description": "Our senior dog adoption program offers wonderful older dogs who have been fully vetted, temperament tested, and are ready for their forever homes. Each dog comes spayed/neutered, up-to-date on vaccinations, microchipped, and with a complete senior blood panel. Many are house-trained and know basic commands. We match each adopter with a dog that fits their lifestyle. Adoption includes a senior care package with food samples, orthopedic bed, and veterinary records. Senior dogs make excellent companions - they're typically calmer, less destructive, and immensely grateful for a second chance. Adoption fee helps us rescue more seniors in need.",
+      "category": "Pet Adoption",
+      "tag": "senior dog, older dog, rescue, vetted, trained",
+      "additional_info": {
+        "Age Range": "5-12 years",
+        "Breeds Available": "Mixed, Various",
+        "Size Range": "Small to Large",
+        "Spayed/Neutered": "Yes",
+        "Vaccinations": "Current",
+        "Microchipped": "Yes",
+        "Health Screening": "Senior blood panel",
+        "House Trained": "Most",
+        "Temperament": "Calm, Affectionate",
+        "Special Needs": "Some may require medication",
+        "Good With": "Varies by dog",
+        "Includes": "Senior care package",
+        "Adoption Process": "Application, Meet & Greet",
+        "Follow-up": "30 day check-in",
+        "Purpose": "Rescue/rehome"
+      },
+      "reviews": [
+        {
+          "review_name": "Margaret T.",
+          "image": "https://randomuser.me/api/portraits/women/68.jpg",
+          "rating": 5,
+          "date": "2025-01-25",
+          "description": "Adopting Buddy (age 7) was the best decision! He's perfectly housebroken and so loving."
+        },
+        {
+          "review_name": "James & Robert",
+          "image": "https://randomuser.me/api/portraits/men/77.jpg",
+          "rating": 4,
+          "date": "2025-03-05",
+          "description": "Our senior girl needed dental work we weren't told about, but the rescue helped with costs. She's perfect for our quiet home."
+        }
+      ]
+    },
+    {
+      "product_id": 701,
+      "name": "Luxury Orthopedic Memory Foam Dog Bed",
+      "price": 89.99,
+      "discount_price": 69.99,
+      "discount_percent": 22,
+      "rating": 5,
+      "rating_count": 1240,
+      "selling_count": 3200,
+      "short_description": "Premium orthopedic memory foam dog bed with waterproof liner and removable washable cover. Supports joints and improves sleep quality.",
+      "long_description": "Our Luxury Orthopedic Memory Foam Dog Bed provides superior comfort and support for dogs of all ages, especially beneficial for senior dogs or those with arthritis. The 4-inch thick medical-grade memory foam conforms to your pet's body shape, relieving pressure points and promoting better sleep. Features a waterproof inner liner that protects the foam from accidents and a removable, machine-washable microfiber cover available in multiple colors. The bolstered edges create a sense of security and provide head support. Non-skid bottom prevents sliding on hardwood floors. Available in 5 sizes to accommodate all breeds. Made with CertiPUR-US certified foam and pet-safe materials. Easy to assemble - just unbox and let expand for 24 hours.",
+      "category": "Pet Accessories",
+      "tag": "dog bed, orthopedic, memory foam, waterproof, washable",
+      "additional_info": {
+        "Material": "Memory foam + microfiber",
+        "Foam Thickness": "4 inches",
+        "Waterproof": "Yes",
+        "Removable Cover": "Yes (machine washable)",
+        "Sizes Available": "XS (24\"), S (30\"), M (36\"), L (42\"), XL (48\")",
+        "Weight Capacity": "Up to 150 lbs for XL",
+        "Colors": "Beige, Gray, Blue, Brown",
+        "Certifications": "CertiPUR-US",
+        "Non-Skid Bottom": "Yes",
+        "Assembly": "None required",
+        "Warranty": "1 year",
+        "Best For": "All dogs, especially seniors",
+        "Expansion Time": "24 hours",
+        "Return Policy": "60 days",
+        "Eco-Friendly": "Partially recycled materials"
+      },
+      "reviews": [
+        {
+          "review_name": "Susan M.",
+          "image": "https://randomuser.me/api/portraits/women/65.jpg",
+          "rating": 5,
+          "date": "2025-03-15",
+          "description": "My arthritic labrador finally sleeps through the night! Worth every penny."
+        },
+        {
+          "review_name": "Robert K.",
+          "image": "https://randomuser.me/api/portraits/men/32.jpg",
+          "rating": 4,
+          "date": "2025-03-22",
+          "description": "Great quality but took 3 days to fully expand. Dog loves it now though."
+        }
+      ]
+    },
+    {
+      "product_id": 702,
+      "name": "Automatic Pet Feeder with Camera",
+      "price": 149.99,
+      "discount_price": 129.99,
+      "discount_percent": 13,
+      "rating": 4,
+      "rating_count": 980,
+      "selling_count": 2100,
+      "short_description": "Smart Wi-Fi enabled automatic pet feeder with 1080p camera, two-way audio, and portion control. Works with Alexa.",
+      "long_description": "This advanced Automatic Pet Feeder combines smart technology with reliable feeding functionality. The 1080p HD camera with night vision lets you monitor meals remotely, while two-way audio allows you to speak to your pet. Program up to 15 meals per day with precise portion control (1-20 portions per meal). The 6L food capacity is perfect for short trips or daily use. Stainless steel bowl is dishwasher safe. Get real-time notifications when food is dispensed or if the hopper is low. Works with 2.4GHz Wi-Fi and is compatible with Alexa for voice control. Battery backup ensures feeding continues during power outages. Perfect for cats and small to medium dogs. Includes anti-clogging system for consistent food flow.",
+      "category": "Pet Accessories",
+      "tag": "automatic feeder, smart feeder, pet camera, portion control, Wi-Fi",
+      "additional_info": {
+        "Capacity": "6L (about 20 cups)",
+        "Camera": "1080p HD with night vision",
+        "Audio": "Two-way communication",
+        "Meals": "Up to 15 per day",
+        "Portion Size": "1-20 portions per meal (adjustable)",
+        "Connectivity": "2.4GHz Wi-Fi",
+        "Compatibility": "iOS, Android, Alexa",
+        "Power": "AC adapter + battery backup",
+        "Bowl Material": "Stainless steel",
+        "Food Type": "Dry kibble only",
+        "App Features": "Scheduling, notifications, recording",
+        "Warranty": "1 year",
+        "Dimensions": "12.6 x 10.2 x 15.7 inches",
+        "Weight": "5.5 lbs",
+        "Voice Recording": "10 sec customizable message"
+      },
+      "reviews": [
+        {
+          "review_name": "Jennifer L.",
+          "image": "https://randomuser.me/api/portraits/women/44.jpg",
+          "rating": 5,
+          "date": "2025-02-10",
+          "description": "Life-saver for my irregular work schedule. Video quality is excellent and my cat gets fed on time."
+        },
+        {
+          "review_name": "David W.",
+          "image": "https://randomuser.me/api/portraits/men/75.jpg",
+          "rating": 4,
+          "date": "2025-03-05",
+          "description": "Works great but had some connectivity issues initially. Customer support helped resolve them."
+        }
+      ]
+    },
+    {
+      "product_id": 703,
+      "name": "GPS Pet Tracker Collar",
+      "price": 129.99,
+      "discount_price": 99.99,
+      "discount_percent": 23,
+      "rating": 4,
+      "rating_count": 760,
+      "selling_count": 1800,
+      "short_description": "Real-time GPS tracking collar with activity monitoring, geofencing, and 7-day battery life. Waterproof design for dogs and cats.",
+      "long_description": "Keep your pets safe with our advanced GPS Pet Tracker Collar featuring real-time location tracking with 2-5 meter accuracy. The lightweight waterproof device attaches to any collar and provides location updates every 5-60 seconds (adjustable). Create virtual fences (geofencing) and receive instant escape alerts. Tracks activity levels and calories burned. The long-lasting battery provides up to 7 days of use per charge (2-3 days with frequent updates). Includes free basic app with location history and multiple user access. No monthly fees - uses global GPS and cellular networks. Compatible with iOS and Android. Perfect for adventurous pets or those prone to wandering. Durable construction withstands rough play and weather conditions. Comes in 3 colors with adjustable strap.",
+      "category": "Pet Accessories",
+      "tag": "GPS tracker, pet locator, activity monitor, geofence, waterproof",
+      "additional_info": {
+        "Tracking Technology": "GPS + Cellular",
+        "Accuracy": "2-5 meters",
+        "Update Frequency": "5-60 sec (adjustable)",
+        "Battery Life": "3-7 days",
+        "Charging Time": "2 hours",
+        "Waterproof": "IP67 (1m for 30 min)",
+        "Weight": "1.2 oz",
+        "Dimensions": "1.8 x 1.2 x 0.6 inches",
+        "App Features": "Real-time tracking, history, geofencing",
+        "Monthly Fees": "None",
+        "Compatibility": "iOS 11+, Android 7+",
+        "Colors": "Black, Blue, Pink",
+        "Strap Length": "Adjustable 8-16 inches",
+        "Warranty": "1 year",
+        "Coverage": "Works in 50+ countries"
+      },
+      "reviews": [
+        {
+          "review_name": "Emily S.",
+          "image": "https://randomuser.me/api/portraits/women/33.jpg",
+          "rating": 5,
+          "date": "2025-01-18",
+          "description": "Found my escape artist cat 3 blocks away within minutes! Peace of mind is priceless."
+        },
+        {
+          "review_name": "Mark P.",
+          "image": "https://randomuser.me/api/portraits/men/68.jpg",
+          "rating": 4,
+          "date": "2025-02-28",
+          "description": "Accurate tracking but battery drains faster than advertised when using frequent updates."
+        }
+      ]
+    },
+    {
+      "product_id": 704,
+      "name": "Self-Cleaning Cat Litter Box",
+      "price": 299.99,
+      "discount_price": 249.99,
+      "discount_percent": 17,
+      "rating": 4,
+      "rating_count": 420,
+      "selling_count": 950,
+      "short_description": "Automatic self-cleaning litter box with odor control, waste compartment, and health monitoring. For cats up to 15 lbs.",
+      "long_description": "Revolutionize litter box duty with our Self-Cleaning Cat Litter Box that automatically rakes waste into a sealed compartment after each use. The smart system detects when your cat leaves and initiates cleaning after a 5-minute delay. Large interior accommodates cats up to 15 lbs. Carbon filter controls odors while the waste drawer holds up to 14 days of clumps (for one cat). Includes health monitoring that tracks frequency and duration of bathroom visits. Works with clumping litter only (not included). Ultra-quiet operation with night mode. Easy to disassemble for cleaning. Anti-tracking ramp reduces litter scatter. App connectivity allows remote monitoring and cleaning initiation. Perfect for busy pet parents or multi-cat households (recommend one unit per 1-2 cats).",
+      "category": "Pet Accessories",
+      "tag": "self-cleaning, litter box, automatic, odor control, smart",
+      "additional_info": {
+        "Cleaning Mechanism": "Automatic raking",
+        "Capacity": "Cat up to 15 lbs",
+        "Waste Drawer": "Holds 14 days (1 cat)",
+        "Litter Type": "Clumping only",
+        "Odor Control": "Carbon filter",
+        "Health Monitoring": "Usage tracking",
+        "Connectivity": "Wi-Fi app (optional)",
+        "Power": "AC adapter",
+        "Noise Level": "< 40 dB",
+        "Dimensions": "22 x 18 x 27 inches",
+        "Weight": "15 lbs",
+        "Assembly": "Minimal required",
+        "Included": "Waste bags (starter pack)",
+        "Warranty": "1 year",
+        "Return Policy": "30 days"
+      },
+      "reviews": [
+        {
+          "review_name": "Lisa R.",
+          "image": "https://randomuser.me/api/portraits/women/28.jpg",
+          "rating": 5,
+          "date": "2025-03-12",
+          "description": "Worth the investment! No more daily scooping and my apartment smells much better."
+        },
+        {
+          "review_name": "Thomas W.",
+          "image": "https://randomuser.me/api/portraits/men/53.jpg",
+          "rating": 3,
+          "date": "2025-02-15",
+          "description": "Works well but my large cat sometimes triggers the sensor while still inside."
+        }
+      ]
+    },
+    {
+      "product_id": 705,
+      "name": "Heated Cat House for Outdoor Cats",
+      "price": 79.99,
+      "discount_price": 59.99,
+      "discount_percent": 25,
+      "rating": 5,
+      "rating_count": 680,
+      "selling_count": 1500,
+      "short_description": "Weatherproof heated shelter for outdoor/stray cats with chew-resistant cord and adjustable thermostat. Stays warm in freezing temperatures.",
+      "long_description": "Provide warmth and safety for outdoor cats with this insulated Heated Cat House featuring a 20-watt heating pad that maintains a comfortable temperature 12-15° above ambient air. The waterproof, windproof design with 2-inch thick foam insulation protects against harsh weather. Chew-resistant cord and 6-foot power cable. Adjustable thermostat prevents overheating. Easy-to-clean removable fleece pad. Elevated floor prevents moisture buildup. Large enough for most cats (19\"L x 20\"W x 16\"H) with dual exits for safety. Ideal for feral cats, barn cats, or outdoor pets. Energy efficient - costs about 5 cents per day to operate. Meets UL safety standards. Can be used year-round (remove heating pad in summer). Assembly required.",
+      "category": "Pet Accessories",
+      "tag": "cat house, outdoor, heated, weatherproof, stray cat",
+      "additional_info": {
+        "Material": "Weatherproof resin",
+        "Insulation": "2-inch foam",
+        "Heating Pad": "20-watt, UL-listed",
+        "Thermostat": "Adjustable",
+        "Temperature": "12-15° above ambient",
+        "Power Cord": "6 ft, chew-resistant",
+        "Floor": "Elevated, moisture-proof",
+        "Dimensions": "19 x 20 x 16 inches",
+        "Entrances": "Two (front and side)",
+        "Cleaning": "Removable pad, wipeable interior",
+        "Assembly": "Required (tools included)",
+        "Energy Use": "~5 cents/day",
+        "Safety": "UL listed, auto shut-off",
+        "Best For": "Temperatures down to -20°F",
+        "Warranty": "2 years"
+      },
+      "reviews": [
+        {
+          "review_name": "Amanda B.",
+          "image": "https://randomuser.me/api/portraits/women/87.jpg",
+          "rating": 5,
+          "date": "2025-01-30",
+          "description": "Our barn cats finally have a warm place in winter. Stays dry even in heavy rain."
+        },
+        {
+          "review_name": "Daniel R.",
+          "image": "https://randomuser.me/api/portraits/men/91.jpg",
+          "rating": 4,
+          "date": "2025-03-20",
+          "description": "Took some time for the stray to trust it but now he sleeps there every night. Good value."
+        }
+      ]
+    },
+    {
+      "product_id": 706,
+      "name": "Interactive Dog Puzzle Toy",
+      "price": 24.99,
+      "discount_price": 19.99,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 1560,
+      "selling_count": 4200,
+      "short_description": "Mental stimulation puzzle toy with adjustable difficulty levels. Holds treats to keep dogs engaged and reduce anxiety.",
+      "long_description": "Challenge your dog's mind with our Interactive Dog Puzzle Toy featuring 6 different difficulty levels to grow with your dog's skills. The rotating compartments and sliding covers hide treats that your dog must discover using problem-solving skills. Made from durable, food-safe materials that withstand aggressive chewers. Helps prevent boredom, reduce destructive behavior, and slow down fast eaters when used with meals. Easy to clean with removable parts. Suitable for all dog sizes (small dogs may need supervision). The bright colors attract interest while the challenging design provides 15-30 minutes of engagement per use. Recommended by veterinarians for mental stimulation and anxiety relief. Great for alone time or interactive play.",
+      "category": "Pet Accessories",
+      "tag": "puzzle toy, interactive, treat dispenser, mental stimulation, anxiety relief",
+      "additional_info": {
+        "Material": "Food-safe ABS plastic",
+        "Difficulty Levels": "6 (adjustable)",
+        "Treat Capacity": "1/2 cup kibble or small treats",
+        "Recommended For": "All dog sizes",
+        "Cleaning": "Removable parts, dishwasher safe (top rack)",
+        "Colors": "Blue/Yellow/Red",
+        "Dimensions": "9 x 9 x 2 inches",
+        "Weight": "1.2 lbs",
+        "Engagement Time": "15-30 minutes",
+        "Benefits": "Mental stimulation, anxiety relief",
+        "Veterinarian Recommended": "Yes",
+        "Warranty": "1 year against defects",
+        "Assembly": "None required",
+        "Safety": "Non-toxic, BPA-free",
+        "Best Uses": "Mealtime, alone time, training"
+      },
+      "reviews": [
+        {
+          "review_name": "Olivia M.",
+          "image": "https://randomuser.me/api/portraits/women/22.jpg",
+          "rating": 5,
+          "date": "2025-02-05",
+          "description": "My high-energy shepherd finally has an outlet! Keeps him busy for 30+ minutes."
+        },
+        {
+          "review_name": "Richard B.",
+          "image": "https://randomuser.me/api/portraits/men/45.jpg",
+          "rating": 4,
+          "date": "2025-03-18",
+          "description": "Smart design but my clever lab figured out the highest level within a week."
+        }
+      ]
+    }
+  ]
+  
+  
+  
+  
+  
