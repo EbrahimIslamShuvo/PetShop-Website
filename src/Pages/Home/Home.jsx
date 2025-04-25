@@ -19,6 +19,7 @@ const Home = () => {
             <Offer></Offer>
             <Kitty></Kitty>
             <Download></Download>
+            
         </div>
     );
 };

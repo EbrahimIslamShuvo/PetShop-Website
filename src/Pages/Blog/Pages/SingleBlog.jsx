@@ -5,18 +5,10 @@ import blogData from '../../../Data/blogData'; // Make sure this exports an obje
 
 const SingleBlog = () => {
     const { id } = useParams();
-    const { blogs } = blogData; // ✅ No parentheses here
+    const { blogs } = blogData(); // ✅ No parentheses here
 
-    const blog = blogs?.find(blog => blog.id == id); // Safe find
-
-    // Optional: You can handle "not found" case with early return
-    if (!blog) {
-        return (
-            <div className="min-h-screen bg-gray-50 flex items-center justify-center">
-                <p className="text-gray-500 text-xl">Blog not found.</p>
-            </div>
-        );
-    }
+    const blog = blogs?.find(blog => blog?.id == id); // Safe find
+    console.log(blog)
 
     return (
         <div className="min-h-screen bg-gray-50">
@@ -28,44 +20,44 @@ const SingleBlog = () => {
 
                     <div className="bg-white shadow-lg rounded-lg overflow-hidden">
                         <img 
-                            src={blog.thumbnail} 
-                            alt={blog.name} 
+                            src={blog?.thumbnail} 
+                            alt={blog?.name} 
                             className="w-full h-96 object-cover"
                         />
 
                         <div className="p-6 md:p-8">
                             <div className="flex justify-between items-start mb-4">
-                                <h1 className="text-3xl font-bold text-gray-900">{blog.name}</h1>
+                                <h1 className="text-3xl font-bold text-gray-900">{blog?.name}</h1>
                                 <span className="bg-blue-100 text-blue-800 text-sm font-medium px-2.5 py-0.5 rounded">
-                                    {blog.category}
+                                    {blog?.category}
                                 </span>
                             </div>
 
                             <div className="flex items-center mb-6">
                                 <img 
-                                    src={blog.author.image} 
-                                    alt={blog.author.name}
+                                    src={blog?.author.image} 
+                                    alt={blog?.author.name}
                                     className="w-10 h-10 rounded-full mr-3 object-cover"
                                 />
                                 <div>
-                                    <p className="text-sm font-medium text-gray-900">{blog.author.name}</p>
+                                    <p className="text-sm font-medium text-gray-900">{blog?.author.name}</p>
                                     <p className="text-sm text-gray-500">
-                                        Published on {new Date(blog.publish_date).toLocaleDateString()} • {blog.view_count.toLocaleString()} views
+                                        Published on {new Date(blog?.publish_date).toLocaleDateString()} • {blog?.view_count.toLocaleString()} views
                                     </p>
                                 </div>
                                 <div className="ml-auto flex items-center">
                                     <span className="text-yellow-500 mr-1">★</span>
-                                    <span className="font-medium">{blog.rating}.0</span>
-                                    <span className="text-gray-500 ml-1">({blog.rating_count})</span>
+                                    <span className="font-medium">{blog?.rating}.0</span>
+                                    <span className="text-gray-500 ml-1">({blog?.rating_count})</span>
                                 </div>
                             </div>
 
                             <div className="prose max-w-none text-gray-700 mb-8">
-                                <p>{blog.description}</p>
+                                <p>{blog?.description}</p>
                             </div>
 
                             <div className="flex flex-wrap gap-2 mb-8">
-                                {blog.tags.map((tag, index) => (
+                                {blog?.tags.map((tag, index) => (
                                     <span 
                                         key={index}
                                         className="bg-gray-100 text-gray-800 text-xs font-medium px-2.5 py-0.5 rounded"
@@ -76,9 +68,9 @@ const SingleBlog = () => {
                             </div>
 
                             <div className="border-t border-gray-200 pt-6">
-                                <h3 className="text-xl font-semibold mb-4">Reviews ({blog.reviews.length})</h3>
+                                <h3 className="text-xl font-semibold mb-4">Reviews ({blog?.reviews.length})</h3>
                                 <div className="space-y-6">
-                                    {blog.reviews.map((review, index) => (
+                                    {blog?.reviews.map((review, index) => (
                                         <div key={index} className="border-b border-gray-200 pb-6 last:border-0 last:pb-0">
                                             <div className="flex items-center mb-3">
                                                 <img 

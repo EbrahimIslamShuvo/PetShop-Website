@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "The Ultimate Guide to Dog Training",
-        "thumbnail": "https://th.bing.com/th/id/OIP.ggcVx-bPa4fymgxE4aHwmAHaIz?rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/R.a8bca3380a8c69c2f1406b50a4271fbd?rik=NJkPXE01bbZtnw&riu=http%3a%2f%2fwww.gentledogstore.com%2fcdn%2fshop%2farticles%2fthe-ultimate-guide-to-dog-training-effective-techniques-416508.jpg%3fv%3d1694390714&ehk=ZrvovbU9qkhVUPfBCSIUhGcgCL7u92xvPp29Pnn28E4%3d&risl=&pid=ImgRaw&r=0",
         "description": "Training your dog can be a rewarding experience for both you and your furry friend. This comprehensive guide covers everything from basic commands like 'sit' and 'stay' to more advanced tricks. We'll discuss positive reinforcement techniques, common training mistakes to avoid, and how to establish a strong bond with your pet through training sessions. Remember, consistency is key when training dogs - short daily sessions work much better than occasional long ones. We'll also cover how to adapt training methods for different breeds and personalities, as well as troubleshooting common behavioral issues like excessive barking or leash pulling.",
         "author": {
             "name": "Sarah Johnson",
@@ -39,7 +39,7 @@
     {
         "id": 2,
         "name": "Cat Nutrition: What You Need to Know",
-        "thumbnail": "https://th.bing.com/th/id/OIP.Yz-G_t-Vq8OmuqR8p06ADwHaHa?w=1000&h=1000&rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/OIP.6-s_nmMMdOw3kwrX1-Y9MAHaEo?rs=1&pid=ImgDetMain",
         "description": "Proper nutrition is essential for your cat's health and longevity. This article dives deep into feline dietary needs, explaining the differences between dry and wet food, the importance of protein sources, and how to read pet food labels. We'll discuss common nutritional deficiencies in cats, special dietary considerations for different life stages (kitten, adult, senior), and how to transition your cat to a new food safely. You'll also learn about homemade cat food recipes (with veterinarian approval), foods that are toxic to cats, and how to manage weight issues through diet. Whether you have an indoor or outdoor cat, understanding their nutritional requirements will help them live a healthier, happier life.",
         "author": {
             "name": "Dr. Robert Miller",
@@ -76,118 +76,7 @@
     {
         "id": 3,
         "name": "Small Pets: Hamster Care 101",
-        "thumbnail": "https://th.bing.com/th/id/OIP.O9TneeeC9ZFeu4HbiQSKuQHaHa?w=800&h=800&rs=1&pid=ImgDetMain",
-        "description": "Hamsters make wonderful pets for both children and adults, but they have specific care requirements that many first-time owners aren't aware of. This guide covers everything from selecting the right cage size and bedding material to proper handling techniques and exercise needs. We'll discuss the different hamster species and their unique characteristics, optimal diet plans, common health issues to watch for, and how to create an enriching environment with tunnels, wheels, and chew toys. You'll also learn about hamster behavior patterns, how to tame your hamster, and breeding considerations. Whether you're considering getting a hamster or already have one, this comprehensive care guide will help you provide the best possible life for your small furry friend.",
-        "author": {
-            "name": "Amanda Rodriguez",
-            "image": "https://cdna.lystit.com/photos/saksfifthavenue/0432136799297-black-b29e60ee-.jpeg"
-        },
-        "publish_date": "2023-09-10",
-        "view_count": 5432,
-        "rating": 4,
-        "rating_count": 19,
-        "reviews": [
-            {
-                "reviewer_name": "Thomas Lee",
-                "reviewer_img": "https://th.bing.com/th/id/OIP.FrgJvUj4RhOF0nmJQp2rggHaJ4?rs=1&pid=ImgDetMain",
-                "rating": 4,
-                "review": "My daughter's hamster is much happier after we followed the cage setup advice in this article.",
-                "category": "Small Pets",
-                "tag": "care"
-            },
-            {
-                "reviewer_name": "Sophia Martinez",
-                "reviewer_img": "https://th.bing.com/th/id/OIP.NCasimy5EMBdHqtyUy5qoQHaHa?w=1080&h=1080&rs=1&pid=ImgDetMain",
-                "rating": 5,
-                "review": "Finally understand why my hamster was chewing the bars - the enrichment tips solved the problem!",
-                "category": "Small Pets",
-                "tag": "behavior"
-            }
-        ],
-        "category": "Small Pets",
-        "tags": [
-            "care",
-            "behavior"
-        ]
-    },
-    {
-        "id": 1,
-        "name": "The Ultimate Guide to Dog Training",
-        "thumbnail": "https://th.bing.com/th/id/OIP.ggcVx-bPa4fymgxE4aHwmAHaIz?rs=1&pid=ImgDetMain",
-        "description": "Training your dog can be a rewarding experience for both you and your furry friend. This comprehensive guide covers everything from basic commands like 'sit' and 'stay' to more advanced tricks. We'll discuss positive reinforcement techniques, common training mistakes to avoid, and how to establish a strong bond with your pet through training sessions. Remember, consistency is key when training dogs - short daily sessions work much better than occasional long ones. We'll also cover how to adapt training methods for different breeds and personalities, as well as troubleshooting common behavioral issues like excessive barking or leash pulling.",
-        "author": {
-            "name": "Sarah Johnson",
-            "image": "https://th.bing.com/th/id/OIP.NCasimy5EMBdHqtyUy5qoQHaHa?w=1080&h=1080&rs=1&pid=ImgDetMain"
-        },
-        "publish_date": "2023-05-15",
-        "view_count": 12453,
-        "rating": 4,
-        "rating_count": 28,
-        "reviews": [
-            {
-                "reviewer_name": "Michael Brown",
-                "reviewer_img": "https://th.bing.com/th/id/OIP.FrgJvUj4RhOF0nmJQp2rggHaJ4?rs=1&pid=ImgDetMain",
-                "rating": 5,
-                "review": "This guide transformed my relationship with my rescue dog! The positive reinforcement techniques worked wonders.",
-                "category": "Dog Care",
-                "tag": "training"
-            },
-            {
-                "reviewer_name": "Emily Chen",
-                "reviewer_img": "https://cdna.lystit.com/photos/saksfifthavenue/0432136799297-black-b29e60ee-.jpeg",
-                "rating": 4,
-                "review": "Very comprehensive, though I wish there were more videos to demonstrate the techniques.",
-                "category": "Dog Care",
-                "tag": "obedience"
-            }
-        ],
-        "category": "Dog Care",
-        "tags": [
-            "training",
-            "obedience"
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Cat Nutrition: What You Need to Know",
-        "thumbnail": "https://th.bing.com/th/id/OIP.Yz-G_t-Vq8OmuqR8p06ADwHaHa?w=1000&h=1000&rs=1&pid=ImgDetMain",
-        "description": "Proper nutrition is essential for your cat's health and longevity. This article dives deep into feline dietary needs, explaining the differences between dry and wet food, the importance of protein sources, and how to read pet food labels. We'll discuss common nutritional deficiencies in cats, special dietary considerations for different life stages (kitten, adult, senior), and how to transition your cat to a new food safely. You'll also learn about homemade cat food recipes (with veterinarian approval), foods that are toxic to cats, and how to manage weight issues through diet. Whether you have an indoor or outdoor cat, understanding their nutritional requirements will help them live a healthier, happier life.",
-        "author": {
-            "name": "Dr. Robert Miller",
-            "image": "https://th.bing.com/th/id/OIP.2WiO7taWad1LNYOPTtk02QAAAA?w=474&h=592&rs=1&pid=ImgDetMain"
-        },
-        "publish_date": "2023-07-22",
-        "view_count": 8765,
-        "rating": 5,
-        "rating_count": 34,
-        "reviews": [
-            {
-                "reviewer_name": "Lisa Wong",
-                "reviewer_img": "https://i.etsystatic.com/22429475/r/il/7836c9/4448689912/il_600x600.4448689912_e88z.jpg",
-                "rating": 5,
-                "review": "Finally a science-based approach to cat nutrition! My vet approved all the recommendations.",
-                "category": "Cat Health",
-                "tag": "diet"
-            },
-            {
-                "reviewer_name": "David Kim",
-                "reviewer_img": "https://th.bing.com/th/id/OIP.O9TneeeC9ZFeu4HbiQSKuQHaHa?w=800&h=800&rs=1&pid=ImgDetMain",
-                "rating": 4,
-                "review": "Great information, though some specialty foods mentioned are hard to find locally.",
-                "category": "Cat Health",
-                "tag": "nutrition"
-            }
-        ],
-        "category": "Cat Health",
-        "tags": [
-            "nutrition",
-            "diet"
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Small Pets: Hamster Care 101",
-        "thumbnail": "https://th.bing.com/th/id/OIP.O9TneeeC9ZFeu4HbiQSKuQHaHa?w=800&h=800&rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/OIP.QMriIw4kRKvlFDlfyxgTHQHaE8?rs=1&pid=ImgDetMain",
         "description": "Hamsters make wonderful pets for both children and adults, but they have specific care requirements that many first-time owners aren't aware of. This guide covers everything from selecting the right cage size and bedding material to proper handling techniques and exercise needs. We'll discuss the different hamster species and their unique characteristics, optimal diet plans, common health issues to watch for, and how to create an enriching environment with tunnels, wheels, and chew toys. You'll also learn about hamster behavior patterns, how to tame your hamster, and breeding considerations. Whether you're considering getting a hamster or already have one, this comprehensive care guide will help you provide the best possible life for your small furry friend.",
         "author": {
             "name": "Amanda Rodriguez",
@@ -223,8 +112,119 @@
     },
     {
         "id": 4,
+        "name": "The Ultimate Guide to Dog Training",
+        "thumbnail": "https://th.bing.com/th/id/OIP.2LtT8TmEXX1ioloIEWpgEwHaEO?rs=1&pid=ImgDetMain",
+        "description": "Training your dog can be a rewarding experience for both you and your furry friend. This comprehensive guide covers everything from basic commands like 'sit' and 'stay' to more advanced tricks. We'll discuss positive reinforcement techniques, common training mistakes to avoid, and how to establish a strong bond with your pet through training sessions. Remember, consistency is key when training dogs - short daily sessions work much better than occasional long ones. We'll also cover how to adapt training methods for different breeds and personalities, as well as troubleshooting common behavioral issues like excessive barking or leash pulling.",
+        "author": {
+            "name": "Sarah Johnson",
+            "image": "https://th.bing.com/th/id/OIP.NCasimy5EMBdHqtyUy5qoQHaHa?w=1080&h=1080&rs=1&pid=ImgDetMain"
+        },
+        "publish_date": "2023-05-15",
+        "view_count": 12453,
+        "rating": 4,
+        "rating_count": 28,
+        "reviews": [
+            {
+                "reviewer_name": "Michael Brown",
+                "reviewer_img": "https://th.bing.com/th/id/OIP.FrgJvUj4RhOF0nmJQp2rggHaJ4?rs=1&pid=ImgDetMain",
+                "rating": 5,
+                "review": "This guide transformed my relationship with my rescue dog! The positive reinforcement techniques worked wonders.",
+                "category": "Dog Care",
+                "tag": "training"
+            },
+            {
+                "reviewer_name": "Emily Chen",
+                "reviewer_img": "https://cdna.lystit.com/photos/saksfifthavenue/0432136799297-black-b29e60ee-.jpeg",
+                "rating": 4,
+                "review": "Very comprehensive, though I wish there were more videos to demonstrate the techniques.",
+                "category": "Dog Care",
+                "tag": "obedience"
+            }
+        ],
+        "category": "Dog Care",
+        "tags": [
+            "training",
+            "obedience"
+        ]
+    },
+    {
+        "id":5,
+        "name": "Cat Nutrition: What You Need to Know",
+        "thumbnail": "https://th.bing.com/th/id/R.48263896f28106cc8c500009a21ae023?rik=PXfCT1Ya3sFoAg&pid=ImgRaw&r=0",
+        "description": "Proper nutrition is essential for your cat's health and longevity. This article dives deep into feline dietary needs, explaining the differences between dry and wet food, the importance of protein sources, and how to read pet food labels. We'll discuss common nutritional deficiencies in cats, special dietary considerations for different life stages (kitten, adult, senior), and how to transition your cat to a new food safely. You'll also learn about homemade cat food recipes (with veterinarian approval), foods that are toxic to cats, and how to manage weight issues through diet. Whether you have an indoor or outdoor cat, understanding their nutritional requirements will help them live a healthier, happier life.",
+        "author": {
+            "name": "Dr. Robert Miller",
+            "image": "https://th.bing.com/th/id/OIP.2WiO7taWad1LNYOPTtk02QAAAA?w=474&h=592&rs=1&pid=ImgDetMain"
+        },
+        "publish_date": "2023-07-22",
+        "view_count": 8765,
+        "rating": 5,
+        "rating_count": 34,
+        "reviews": [
+            {
+                "reviewer_name": "Lisa Wong",
+                "reviewer_img": "https://i.etsystatic.com/22429475/r/il/7836c9/4448689912/il_600x600.4448689912_e88z.jpg",
+                "rating": 5,
+                "review": "Finally a science-based approach to cat nutrition! My vet approved all the recommendations.",
+                "category": "Cat Health",
+                "tag": "diet"
+            },
+            {
+                "reviewer_name": "David Kim",
+                "reviewer_img": "https://th.bing.com/th/id/OIP.O9TneeeC9ZFeu4HbiQSKuQHaHa?w=800&h=800&rs=1&pid=ImgDetMain",
+                "rating": 4,
+                "review": "Great information, though some specialty foods mentioned are hard to find locally.",
+                "category": "Cat Health",
+                "tag": "nutrition"
+            }
+        ],
+        "category": "Cat Health",
+        "tags": [
+            "nutrition",
+            "diet"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Small Pets: Hamster Care 101",
+        "thumbnail": "https://th.bing.com/th/id/OIP.b-FwBveCbRSo4eRceIWpGwHaFj?rs=1&pid=ImgDetMain",
+        "description": "Hamsters make wonderful pets for both children and adults, but they have specific care requirements that many first-time owners aren't aware of. This guide covers everything from selecting the right cage size and bedding material to proper handling techniques and exercise needs. We'll discuss the different hamster species and their unique characteristics, optimal diet plans, common health issues to watch for, and how to create an enriching environment with tunnels, wheels, and chew toys. You'll also learn about hamster behavior patterns, how to tame your hamster, and breeding considerations. Whether you're considering getting a hamster or already have one, this comprehensive care guide will help you provide the best possible life for your small furry friend.",
+        "author": {
+            "name": "Amanda Rodriguez",
+            "image": "https://cdna.lystit.com/photos/saksfifthavenue/0432136799297-black-b29e60ee-.jpeg"
+        },
+        "publish_date": "2023-09-10",
+        "view_count": 5432,
+        "rating": 4,
+        "rating_count": 19,
+        "reviews": [
+            {
+                "reviewer_name": "Thomas Lee",
+                "reviewer_img": "https://th.bing.com/th/id/OIP.FrgJvUj4RhOF0nmJQp2rggHaJ4?rs=1&pid=ImgDetMain",
+                "rating": 4,
+                "review": "My daughter's hamster is much happier after we followed the cage setup advice in this article.",
+                "category": "Small Pets",
+                "tag": "care"
+            },
+            {
+                "reviewer_name": "Sophia Martinez",
+                "reviewer_img": "https://th.bing.com/th/id/OIP.NCasimy5EMBdHqtyUy5qoQHaHa?w=1080&h=1080&rs=1&pid=ImgDetMain",
+                "rating": 5,
+                "review": "Finally understand why my hamster was chewing the bars - the enrichment tips solved the problem!",
+                "category": "Small Pets",
+                "tag": "behavior"
+            }
+        ],
+        "category": "Small Pets",
+        "tags": [
+            "care",
+            "behavior"
+        ]
+    },
+    {
+        "id": 7,
         "name": "Bird Ownership: A Beginner's Guide",
-        "thumbnail": "https://th.bing.com/th/id/OIP.2WiO7taWad1LNYOPTtk02QAAAA?w=474&h=592&rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/OIP.qoA1_F5oGeiE86cpg6hdkgHaEK?rs=1&pid=ImgDetMain",
         "description": "Birds can make delightful companions, but they require specialized care that differs greatly from cats and dogs. This guide covers everything you need to know before bringing home your first feathered friend. We'll discuss how to choose the right species for your lifestyle, proper cage setup and placement, dietary requirements, and the importance of mental stimulation. You'll learn about common bird behaviors and what they mean, how to properly handle and socialize your bird, and health warning signs to watch for. We'll also cover important safety considerations in a home with birds, including toxic foods and household hazards. Whether you're considering a parakeet, cockatiel, or larger parrot, this guide will help you prepare for a rewarding relationship with your avian companion.",
         "author": {
             "name": "Carlos Mendez",
@@ -259,9 +259,9 @@
         ]
     },
     {
-        "id": 5,
+        "id": 8,
         "name": "Reptile Habitats: Creating the Perfect Environment",
-        "thumbnail": "https://th.bing.com/th/id/OIP.FrgJvUj4RhOF0nmJQp2rggHaJ4?rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/OIP.YTV5v6JITTQsmrDonKvkSgHaD3?rs=1&pid=ImgDetMain",
         "description": "Creating the proper habitat is crucial for any reptile's health and wellbeing. This in-depth guide covers temperature gradients, humidity control, lighting requirements, and substrate choices for various reptile species. We'll discuss how to set up proper heating elements, UVB lighting for vitamin D synthesis, and how to create a naturalistic environment that reduces stress. You'll learn about the specific needs of popular pet reptiles like bearded dragons, leopard geckos, ball pythons, and red-eared sliders. We'll also cover common mistakes in reptile keeping, how to monitor environmental parameters, and troubleshooting tips for when things go wrong. Whether you're a first-time reptile owner or looking to upgrade an existing setup, this guide will help you create an optimal living space for your scaly companion.",
         "author": {
             "name": "Dr. Emily Sanders",
@@ -296,9 +296,9 @@
         ]
     },
     {
-        "id": 6,
+        "id": 9,
         "name": "Senior Dog Care: Special Considerations",
-        "thumbnail": "https://i.etsystatic.com/22429475/r/il/7836c9/4448689912/il_600x600.4448689912_e88z.jpg",
+        "thumbnail": "https://th.bing.com/th/id/OIP.SCgmHLsMNm44mHLLO0_IKwHaE8?rs=1&pid=ImgDetMain",
         "description": "As dogs age, their needs change significantly. This comprehensive guide covers all aspects of caring for your senior canine companion. We'll discuss how to adjust their diet for aging metabolism, appropriate exercise routines, and common health issues in older dogs like arthritis, dental problems, and cognitive decline. You'll learn about home modifications to help your senior dog, pain management strategies, and when to consider mobility aids. We'll also cover important veterinary care considerations, including more frequent check-ups and blood work, as well as quality of life assessments. Emotional support for both you and your aging pet is also addressed, with tips for maintaining your bond through their golden years. Whether your dog is just showing their first gray hairs or is already in their senior years, this guide will help you provide the best possible care.",
         "author": {
             "name": "Dr. Mark Williams",
@@ -333,9 +333,9 @@
         ]
     },
     {
-        "id": 7,
+        "id": 10,
         "name": "Aquarium Setup: From Beginner to Advanced",
-        "thumbnail": "https://th.bing.com/th/id/OIP.NCasimy5EMBdHqtyUy5qoQHaHa?w=1080&h=1080&rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/R.6649ed3e71047185ce830efa08cb2e48?rik=sNfiJ3a%2f94%2bSMA&pid=ImgRaw&r=0",
         "description": "Setting up a healthy aquarium requires more than just filling a tank with water and adding fish. This complete guide walks you through the entire process from selecting the right tank size and location to maintaining perfect water parameters. We'll cover the nitrogen cycle in detail, proper filtration systems, heating and lighting needs, and how to choose compatible fish species. You'll learn about live plants versus artificial decor, substrate options, and how to acclimate new fish properly. We'll also discuss common beginner mistakes, algae control strategies, and how to troubleshoot water quality issues. Whether you're interested in a simple betta setup or a complex planted community tank, this guide provides the foundational knowledge you need for successful fish keeping. Advanced topics include CO2 injection, breeding setups, and marine aquarium considerations.",
         "author": {
             "name": "Lisa Tanaka",
@@ -370,9 +370,9 @@
         ]
     },
     {
-        "id": 8,
+        "id": 11,
         "name": "Rabbit Care: Beyond the Basics",
-        "thumbnail": "https://th.bing.com/th/id/OIP.Yz-G_t-Vq8OmuqR8p06ADwHaHa?w=1000&h=1000&rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/OIP.kOc1G0ahQr6ogZhQVUckpgHaEK?rs=1&pid=ImgDetMain",
         "description": "Rabbits are complex creatures with specific needs that go far beyond just carrots and a cage. This comprehensive guide covers advanced rabbit care including proper housing requirements, the importance of unlimited hay, and creating a rabbit-proofed space for free roaming. We'll discuss litter training techniques, appropriate chew toys for dental health, and how to properly socialize your bunny. The guide also covers recognizing signs of illness (as rabbits hide pain well), bonding rabbits together, and seasonal care considerations. You'll learn about different rabbit breeds and their unique characteristics, grooming needs for long-haired varieties, and how to build trust with a shy rabbit. Whether you're a new rabbit owner or looking to improve your current care routine, this guide provides essential knowledge for keeping your bunny happy and healthy.",
         "author": {
             "name": "Dr. Hannah Lee",
@@ -407,9 +407,9 @@
         ]
     },
     {
-        "id": 9,
+        "id": 12,
         "name": "Exotic Pets: Is a Ferret Right for You?",
-        "thumbnail": "https://i.etsystatic.com/22429475/r/il/7836c9/4448689912/il_600x600.4448689912_e88z.jpg",
+        "thumbnail": "https://th.bing.com/th/id/OIP.GkuxiFH8Bh-geXWAxU9-1wHaE1?rs=1&pid=ImgDetMain",
         "description": "Ferrets are playful, intelligent creatures that make unique pets, but they're not for everyone. This in-depth guide covers everything you need to know before adopting a ferret, including their specialized dietary needs, required living space, and extensive play requirements. We'll discuss ferret-proofing your home (they can squeeze into surprisingly small spaces!), litter training challenges, and their strong odor that requires regular grooming. The guide also covers common health issues in ferrets, the importance of vaccinations, and why they should always be kept in pairs or groups. You'll learn about their sleep patterns (they sleep 14-18 hours a day!), favorite toys, and how to handle their mischievous nature. We'll also address legal considerations as ferrets are illegal in some areas. If you're considering these playful mustelids, this guide will help you determine if you're ready for the commitment.",
         "author": {
             "name": "Dr. Steven Chen",
@@ -444,9 +444,9 @@
         ]
     },
     {
-        "id": 10,
+        "id": 13,
         "name": "Puppy Training: The First 30 Days",
-        "thumbnail": "https://th.bing.com/th/id/OIP.O9TneeeC9ZFeu4HbiQSKuQHaHa?w=800&h=800&rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/OIP.uH1dY6gBxeddegup2slYAAHaEK?w=2048&h=1152&rs=1&pid=ImgDetMain",
         "description": "The first month with a new puppy is crucial for setting the foundation of good behavior and a strong bond. This day-by-day guide covers everything from housebreaking and crate training to bite inhibition and socialization. We'll discuss establishing routines for feeding, playtime, and naps to prevent overtired puppy meltdowns. You'll learn how to introduce basic commands, proper leash introduction, and handling exercises that make vet visits easier. The guide also covers puppy-proofing your home, dealing with common issues like whining at night, and preventing separation anxiety. We'll address how to properly socialize your puppy before vaccinations are complete, and the critical developmental stages puppies go through in their first weeks home. Whether you're bringing home an 8-week-old ball of fluff or an older puppy, this guide will help you navigate those challenging but rewarding first weeks with confidence.",
         "author": {
             "name": "Jessica Wilson",
@@ -481,9 +481,9 @@
         ]
     },
     {
-        "id": 11,
+        "id": 14,
         "name": "Tropical Fish: Creating a Community Tank",
-        "thumbnail": "https://th.bing.com/th/id/OIP.2WiO7taWad1LNYOPTtk02QAAAA?w=474&h=592&rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/R.ab0501201cabc6d27b7f5a1c2521b198?rik=csmYgYOS%2fFgyHA&pid=ImgRaw&r=0",
         "description": "A well-planned community tank can be a stunning centerpiece in any home while providing a harmonious environment for multiple fish species. This guide covers selecting compatible fish based on temperament, water parameter needs, and swimming levels. We'll discuss the ideal tank size for communities, proper stocking densities, and how to introduce new fish safely. You'll learn about the different roles fish play in a community - top, middle, and bottom dwellers - and how to create a balanced ecosystem. The guide covers ideal plants and decorations that provide hiding spots while enhancing water quality. We'll also address common community tank problems like aggression, disease spread, and how to quarantine new additions. Whether you're interested in peaceful livebearers, colorful tetras, or interesting bottom feeders, this guide will help you create a thriving underwater community that's both beautiful and biologically balanced.",
         "author": {
             "name": "Marcus Wong",
@@ -518,9 +518,9 @@
         ]
     },
     {
-        "id": 12,
+        "id": 15,
         "name": "Pet First Aid: Be Prepared for Emergencies",
-        "thumbnail": "https://th.bing.com/th/id/OIP.FrgJvUj4RhOF0nmJQp2rggHaJ4?rs=1&pid=ImgDetMain",
+        "thumbnail": "https://th.bing.com/th/id/OIP.If8sPWHHrZi63twaPMZTNAHaE7?rs=1&pid=ImgDetMain",
         "description": "Every pet owner should be prepared for emergencies, as quick action can mean the difference between life and death. This comprehensive guide covers first aid techniques for dogs, cats, and small pets including how to handle choking, wounds, poisoning, and fractures. We'll discuss assembling a pet first aid kit, recognizing signs of distress, and when to rush to the vet versus handling the situation at home. You'll learn how to take vital signs (temperature, pulse, respiration), perform rescue breathing, and safely restrain an injured pet. The guide also covers common household hazards, seasonal dangers (like heat stroke), and how to pet-proof your home. We'll address species-specific considerations and provide printable emergency contact sheets. While not a substitute for veterinary care, these first aid skills could save your pet's life in a crisis. Every responsible pet owner should know these essential emergency procedures.",
         "author": {
             "name": "Dr. Amanda Carter",

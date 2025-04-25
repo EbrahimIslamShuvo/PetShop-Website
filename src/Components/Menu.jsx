@@ -13,7 +13,7 @@ const Menu = () => {
         <nav className="sticky top-0 z-50 bg-white hidden lg:block">
             <div className="flex justify-center gap-10 py-4">
                 <NavLink to="/" className={navLinkClass}>Home</NavLink>
-                <NavLink to="/shop/all" className={navLinkClass}>Shop</NavLink>
+                <NavLink to="/shop/0" className={navLinkClass}>Shop</NavLink>
                 <NavLink to="/blog" className={navLinkClass}>Blog</NavLink>
                 <NavLink to="/contact" className={navLinkClass}>Contact Us</NavLink>
                 <NavLink to="/about" className={navLinkClass}>About Us</NavLink>

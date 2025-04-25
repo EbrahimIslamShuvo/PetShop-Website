@@ -112,7 +112,7 @@ const MainNav = () => {
                         {/* Navigation Menu */}
                         <ul className="flex flex-col w-full">
                             <NavItem to="/" label="Home" />
-                            <NavItem to="/shop/all" label="Shop" />
+                            <NavItem to="/shop/0" label="Shop" />
                             <NavItem to="/blog" label="Blog" />
                             <NavItem to="/contact" label="Contact Us" />
                             <NavItem to="/about" label="About Us" />
