@@ -29,8 +29,19 @@ const Hero2 = () => {
                             <div className="">
                                 <img className='w-100 md:mt-15 md:ml-20 relative z-40' src={ratPack} alt="" />
                             </div>
-                            <div className=" absolute z-50 bottom-0 w-full ml-60 animate-bounce duration-1000 hidden md:block">
-                                <img src={rat} alt="" />
+                            <div
+                                style={{
+                                    position: 'absolute',
+                                    zIndex: 50,
+                                    bottom: '0px',
+                                    right: "",
+                                    translate: "-200px",
+
+                                    animation: 'sideToSide 3s ease-in-out infinite', // Side to side animation
+                                }}
+                                className="hidden md:block"
+                            >
+                                <img src={rat} alt="Hamster" />
                             </div>
                             <div className=" absolute z-40 -top-15 -right-35">
                                 <img className='w-70' src={discount} alt="" />
