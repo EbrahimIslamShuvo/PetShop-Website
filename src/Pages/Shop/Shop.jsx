@@ -65,7 +65,7 @@ const Shop = () => {
           <div className="">
             <Header name="All Product" />
           </div>
-          <div className="flex justify-between items-start gap-10">
+          <div className="flex flex-col lg:flex-row justify-between items-start gap-10">
             {/* Categories sidebar */}
             <div className="border border-gray-200 w-fit rounded-lg p-5">
               <CategoryLink category={allCategory} />
@@ -75,7 +75,7 @@ const Shop = () => {
             </div>
             
             {/* Products grid */}
-            <div className="grid grid-cols-3 w-full gap-8">
+            <div className="grid grid-cols-2 lg:grid-cols-3  w-full gap-8">
               {filteredProducts.map(product => (
                 <Card key={product.id} product={product} />
               ))}

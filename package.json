@@ -16,6 +16,7 @@
     "@mui/material": "^7.0.2",
     "@tailwindcss/vite": "^4.1.4",
     "daisyui": "^5.0.28",
+    "framer-motion": "^12.9.2",
     "localforage": "^1.10.0",
     "match-sorter": "^8.0.0",
     "react": "^19.0.0",

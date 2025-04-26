@@ -30,7 +30,7 @@ const Kitty = () => {
                         <div className="relative bg-[#FB72B2] rounded-xl overflow-hidden group flex-1 h-full z-2">
                             <img
                                 className="absolute inset-0 w-full h-full object-cover -z-10 rounded-xl"
-                                src={catt}
+                                src={cat}
                                 alt=""
                             />
                             <div className="flex justify-end items-end-safe h-11/12 w-11/12 mx-auto">

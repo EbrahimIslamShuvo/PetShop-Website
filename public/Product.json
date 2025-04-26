@@ -1,5 +1,5 @@
-[
-    {
+[  
+  {
       "product_id": 201,
       "name": "Golden Retriever Puppy",
       "price": 1200.00,
@@ -102,6 +102,7 @@
     {
       "product_id": 203,
       "name": "African Grey Parrot",
+      "image": "https://th.bing.com/th/id/OIP.8aqJe23MyKETm-9ZUuSWFwHaE8?rs=1&pid=ImgDetMain",
       "price": 1500.00,
       "discount_price": 1300.00,
       "discount_percent": 13,
@@ -144,6 +145,7 @@
     {
       "product_id": 204,
       "name": "Mini Lop Rabbit",
+      "image": "https://th.bing.com/th/id/OIP.JdAqlOi0GGkrHttyyyRWPwHaFj?rs=1&pid=ImgDetMain",
       "price": 120.00,
       "discount_price": 90.00,
       "discount_percent": 25,
@@ -186,6 +188,7 @@
     {
       "product_id": 205,
       "name": "Red-Eared Slider Turtle",
+      "image": "https://th.bing.com/th/id/R.8b7635b258ea1321fb9116acae36770e?rik=M4Sk3iNTAJb1Kg&riu=http%3a%2f%2fwww.animalspot.net%2fwp-content%2fuploads%2f2014%2f11%2fPictures-of-Red-Eared-Slider-Turtle.jpg&ehk=LtyrbVDappXOt4SH1rCCUOMQLk6wq0xWfXNus4h2cdY%3d&risl=&pid=ImgRaw&r=0", 
       "price": 70.00,
       "discount_price": 60.00,
       "discount_percent": 14,
@@ -228,6 +231,7 @@
     {
       "product_id": 206,
       "name": "Syrian Hamster",
+      "image": "https://th.bing.com/th/id/R.0d513dab41e4bf296fa01fc01e5c0aa1?rik=kVZEbJnZg35mUA&pid=ImgRaw&r=0",
       "price": 30.00,
       "discount_price": 25.00,
       "discount_percent": 17,
@@ -270,6 +274,7 @@
     {
       "product_id": 301,
       "name": "Premium Dog Kibble Chicken & Rice",
+      "image": "https://th.bing.com/th/id/R.e07c0ec4aacd9ac7b08869e1bf3f4dc9?rik=OFkNGPhThTThsw&pid=ImgRaw&r=0",  
       "price": 60.00,
       "discount_price": 48.00,
       "discount_percent": 20,
@@ -312,6 +317,7 @@
     {
       "product_id": 302,
       "name": "Grain-Free Cat Food – Salmon Recipe",
+      "image": "https://th.bing.com/th/id/OIP.KkFuWAO6X6lX4gRVGHtWUQHaHa?rs=1&pid=ImgDetMain", 
       "price": 45.00,
       "discount_price": 36.00,
       "discount_percent": 20,
@@ -354,6 +360,7 @@
     {
       "product_id": 303,
       "name": "Tropical Fish Flakes",
+      "image": "https://th.bing.com/th/id/OIP.eNYbPXDHgaAOR-7QhRu9OQAAAA?rs=1&pid=ImgDetMain",
       "price": 15.00,
       "discount_price": 12.00,
       "discount_percent": 20,
@@ -396,6 +403,7 @@
     {
       "product_id": 304,
       "name": "Organic Rabbit Pellets – Herb Blend",
+      "image": "https://th.bing.com/th/id/OIP.nxjV_QHopVmXaExpkWe1OgHaHa?rs=1&pid=ImgDetMain",
       "price": 28.00,
       "discount_price": 21.00,
       "discount_percent": 25,
@@ -438,6 +446,7 @@
     {
       "product_id": 305,
       "name": "Puppy Starter Wet Food – Lamb & Carrot",
+      "image": "https://th.bing.com/th/id/R.03c31b48f26d184a4a1e3735ac40743f?rik=rC%2fBdnv3mKAcSQ&pid=ImgRaw&r=0", 
       "price": 35.00,
       "discount_price": 28.00,
       "discount_percent": 20,
@@ -480,6 +489,7 @@
     {
       "product_id": 306,
       "name": "Parrot Mix with Fruits & Seeds",
+      "image": "https://th.bing.com/th/id/OIP.zL3xxO9nF5h3446o01OFjQHaHa?rs=1&pid=ImgDetMain",
       "price": 22.00,
       "discount_price": 17.60,
       "discount_percent": 20,
@@ -522,6 +532,7 @@
     {
       "product_id": 301,
       "name": "WhiskerFeast Salmon Delight Dry Cat Food",
+      "image": "https://th.bing.com/th/id/OIP.rdmneuSHUY9DbJnkOJ_shQHaHa?rs=1&pid=ImgDetMain",
       "price": 45.00,
       "discount_price": 33.75,
       "discount_percent": 25,
@@ -564,6 +575,7 @@
     {
       "product_id": 302,
       "name": "MeowMeals Chicken & Pumpkin Wet Cat Food",
+      "image": "https://th.bing.com/th/id/OIP.41_mNCoMevmOlvoWRslmfgHaHa?rs=1&pid=ImgDetMain",
       "price": 38.00,
       "discount_price": 30.40,
       "discount_percent": 20,
@@ -606,6 +618,7 @@
     {
       "product_id": 303,
       "name": "PurrNatural Tuna Bites – Freeze Dried",
+      "image": "https://th.bing.com/th/id/OIP.f1Y0Z6obBU3nDGkRWM1zowHaHa?rs=1&pid=ImgDetMain",
       "price": 27.00,
       "discount_price": 21.60,
       "discount_percent": 20,
@@ -648,6 +661,7 @@
     {
       "product_id": 304,
       "name": "NaturePaws Indoor Cat Formula",
+      "image": "https://th.bing.com/th/id/OIP.YbeuM1zrhMo6eKTchoOk6AAAAA?rs=1&pid=ImgDetMain",
       "price": 42.00,
       "discount_price": 33.60,
       "discount_percent": 20,
@@ -690,6 +704,7 @@
     {
       "product_id": 305,
       "name": "Feline Feast Duck & Sweet Potato Recipe",
+      "image": "https://th.bing.com/th/id/OIP.j_Cp_bbxml4C8HPLSUvKwQHaHa?w=1200&h=1200&rs=1&pid=ImgDetMain",
       "price": 48.00,
       "discount_price": 36.00,
       "discount_percent": 25,
@@ -732,6 +747,7 @@
     {
       "product_id": 306,
       "name": "HappyWhiskers Kitten Formula with Goat Milk",
+      "image": "https://m.media-amazon.com/images/I/41FoBWYDE5L.jpg",
       "price": 39.00,
       "discount_price": 31.20,
       "discount_percent": 20,
@@ -774,6 +790,7 @@
     {
       "product_id": 404,
       "name": "Yeowww! Catnip Banana Toy",
+      "image": "https://th.bing.com/th/id/OIP.kBJmZRLTiCn7UYFYZXouGgHaHa?rs=1&pid=ImgDetMain",
       "price": 6.99,
       "discount_price": 5.24,
       "discount_percent": 25,
@@ -816,6 +833,7 @@
     {
       "product_id": 405,
       "name": "Chuckit! Ultra Ball Dog Toy",
+      "image": "https://cdn.shopify.com/s/files/1/0376/6478/4520/products/122812000031-chuckit-ultra-rubber-ball-dog-toy-2-pack-small-2_1200x1200.jpg?v=1654325888",
       "price": 9.99,
       "discount_price": 7.49,
       "discount_percent": 25,
@@ -858,6 +876,7 @@
     {
       "product_id": 406,
       "name": "Valonii Automatic Laser Toy for Cats",
+      "image": "https://th.bing.com/th/id/OIP.kU7CfIxOBB35LsIfkY5DhgHaHa?rs=1&pid=ImgDetMain",
       "price": 24.99,
       "discount_price": 19.99,
       "discount_percent": 20,
@@ -900,6 +919,7 @@
     {
       "product_id": 501,
       "name": "Vet's Best Flea & Tick Home Spray",
+      "image": "https://th.bing.com/th/id/R.5979751fb91b8e1cf3f7d0f349d5cca4?rik=eGlyYT5bAEErAg&pid=ImgRaw&r=0",
       "price": 14.99,
       "discount_price": 11.99,
       "discount_percent": 20,
@@ -947,6 +967,7 @@
     {
       "product_id": 502,
       "name": "Pro-Sense Digestive Aid Tablets",
+      "image": "https://th.bing.com/th/id/OIP.cSSRiizZ1tVZUjsehOGU5AHaHa?rs=1&pid=ImgDetMain",
       "price": 12.49,
       "discount_price": 9.99,
       "discount_percent": 20,
@@ -994,6 +1015,7 @@
     {
       "product_id": 503,
       "name": "Zymox Ear Solution with Hydrocortisone",
+      "image": "https://th.bing.com/th/id/R.3e6c33ebc976c60fdd60f11c19c0f0ba?rik=FkvXXd5qlCd5Ag&riu=http%3a%2f%2fupco.com%2fwp-content%2fuploads%2f2020%2f08%2fZymox-Otic-Ear-Solution-Hydrocortisone.jpg&ehk=izBN7PIdLNuT9HL9wSPy1WLyFyrB9umup6MMDeiYJBE%3d&risl=&pid=ImgRaw&r=0",
       "price": 24.99,
       "discount_price": 19.99,
       "discount_percent": 20,
@@ -1041,6 +1063,7 @@
     {
       "product_id": 504,
       "name": "Nutri-Vet Aspirin for Dogs",
+      "image": "https://th.bing.com/th/id/R.ee27568c8b5918c39551c76ee9058345?rik=rQimRtsQwYByww&riu=http%3a%2f%2fs7d1.scene7.com%2fis%2fimage%2fPETCO%2f888060-center-1&ehk=Ss2fRbaWo1uecLfyfcXCeGFpXwYgT9kJ%2bqFB60W%2b%2f4M%3d&risl=&pid=ImgRaw&r=0",
       "price": 16.99,
       "discount_price": null,
       "discount_percent": 0,
@@ -1088,6 +1111,7 @@
     {
       "product_id": 505,
       "name": "PetArmor Plus Flea & Tick Prevention",
+      "image": "https://th.bing.com/th/id/OIP.ux0_JMuhvERHmYYzwqoW_wHaHa?rs=1&pid=ImgDetMain",
       "price": 49.99,
       "discount_price": 39.99,
       "discount_percent": 20,
@@ -1135,6 +1159,7 @@
     {
       "product_id": 601,
       "name": "Golden Retriever Puppy Adoption",
+      "image": "https://th.bing.com/th/id/R.7eb945686fd8c63b9159846f6d78f121?rik=IjTQzUZSpbKKzA&riu=http%3a%2f%2fwww.victoriabuzz.com%2fwp-content%2fuploads%2f2018%2f11%2fpuppies-e1541189267555.jpg&ehk=r7n2xQpchbZaJpcimbgMY4tiIKY%2frqO32hibWJy1Png%3d&risl=&pid=ImgRaw&r=0",
       "price": 350.00,
       "discount_price": 300.00,
       "discount_percent": 14,
@@ -1182,6 +1207,7 @@
     {
       "product_id": 602,
       "name": "Domestic Shorthair Kitten Adoption",
+      "image": "https://th.bing.com/th/id/OIP.EDOVK2-qbTnlYS-kwZCI-QHaGj?rs=1&pid=ImgDetMain",
       "price": 150.00,
       "discount_price": 100.00,
       "discount_percent": 33,
@@ -1229,6 +1255,7 @@
     {
       "product_id": 603,
       "name": "Parakeet Adoption Pair",
+      "image": "https://th.bing.com/th/id/OIP.z7WbDF3vb4ZT8udx0SnaFgHaE7?w=1200&h=799&rs=1&pid=ImgDetMain",
       "price": 80.00,
       "discount_price": null,
       "discount_percent": 0,
@@ -1276,6 +1303,7 @@
     {
       "product_id": 604,
       "name": "Rabbit Adoption Bundle",
+      "image": "https://th.bing.com/th/id/OIP.A9RxSsFRBlwOxbUG5TNt8wHaE8?rs=1&pid=ImgDetMain",
       "price": 120.00,
       "discount_price": 100.00,
       "discount_percent": 17,
@@ -1323,6 +1351,7 @@
     {
       "product_id": 605,
       "name": "Senior Dog Adoption Special",
+      "image": "https://th.bing.com/th/id/OIP.1tgqM3HcfqUD3hmg9okv6gAAAA?rs=1&pid=ImgDetMain",
       "price": 75.00,
       "discount_price": 50.00,
       "discount_percent": 33,
@@ -1370,6 +1399,7 @@
     {
       "product_id": 701,
       "name": "Luxury Orthopedic Memory Foam Dog Bed",
+      "image": "https://th.bing.com/th/id/OIP.3IjTMJeK-V9uOjj5InCpmwHaHa?rs=1&pid=ImgDetMain",
       "price": 89.99,
       "discount_price": 69.99,
       "discount_percent": 22,
@@ -1417,6 +1447,7 @@
     {
       "product_id": 702,
       "name": "Automatic Pet Feeder with Camera",
+      "image": "https://th.bing.com/th/id/OIP.qsR9RfVx9P_ALEbxPhmOKQHaHa?rs=1&pid=ImgDetMain",
       "price": 149.99,
       "discount_price": 129.99,
       "discount_percent": 13,
@@ -1464,6 +1495,7 @@
     {
       "product_id": 703,
       "name": "GPS Pet Tracker Collar",
+      "image": "https://th.bing.com/th/id/OIP.j8zITkwmDfgRrwUmKo35IAHaHT?rs=1&pid=ImgDetMain",
       "price": 129.99,
       "discount_price": 99.99,
       "discount_percent": 23,
@@ -1511,6 +1543,7 @@
     {
       "product_id": 704,
       "name": "Self-Cleaning Cat Litter Box",
+      "image": "https://th.bing.com/th/id/OIP.JHbnu8CEQpkGF7UwryfKGgHaHa?rs=1&pid=ImgDetMain",
       "price": 299.99,
       "discount_price": 249.99,
       "discount_percent": 17,
@@ -1558,6 +1591,7 @@
     {
       "product_id": 705,
       "name": "Heated Cat House for Outdoor Cats",
+      "image": "https://th.bing.com/th/id/OIP.iqzyFcFpvDwFgPeJFrigXAHaGS?rs=1&pid=ImgDetMain",
       "price": 79.99,
       "discount_price": 59.99,
       "discount_percent": 25,
@@ -1605,6 +1639,7 @@
     {
       "product_id": 706,
       "name": "Interactive Dog Puzzle Toy",
+      "image": "https://th.bing.com/th/id/OIP.hepG03DhEFXPkYmr1BIRlAHaHa?rs=1&pid=ImgDetMain",
       "price": 24.99,
       "discount_price": 19.99,
       "discount_percent": 20,
@@ -1650,8 +1685,3 @@
       ]
     }
   ]
-  
-  
-  
-  
-  
