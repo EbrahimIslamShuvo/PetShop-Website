@@ -5,6 +5,7 @@ import Card from '../../../../Components/Shared/Card';
 import Button from '../../../../Components/Shared/Button';
 import dogg from "../Dog/Image/dogg.png"
 import dog from "../Dog/Image/dog.png"
+import { NavLink } from 'react-router-dom';
 
 const Dog = () => {
 
@@ -36,7 +37,7 @@ const Dog = () => {
                             <div className="absolute top-30 left-15 text-white font-semibold z-10 h-8/12 flex flex-col">
                                 <h1 className="text-6xl font-bold leading-tight">Lifestage <br />Food</h1>
                                 <p className='-mt-2 mb-4'>All you need for tails to wag</p>
-                                <Button></Button>
+                                <NavLink to={"/shop/2"}><Button></Button></NavLink>
                                 
                             </div>
                         </div>

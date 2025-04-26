@@ -5,6 +5,7 @@ import Card from '../../../../Components/Shared/Card';
 import Button from '../../../../Components/Shared/Button';
 import cat from '../Kitty/Image/cat.png';
 import catt from '../Kitty/Image/catt.png'
+import { NavLink } from 'react-router-dom';
 
 const Kitty = () => {
 
@@ -42,7 +43,7 @@ const Kitty = () => {
                             <div className="absolute top-30 left-15 text-white font-semibold z-10 h-8/12 flex flex-col">
                                 <h1 className="text-6xl font-bold leading-tight">Kitten Food <br />Collection</h1>
                                 <p className='-mt-2 mb-4'>All you need for tails to wag</p>
-                                <Button></Button>
+                                <NavLink to={"/shop/2"}><Button></Button></NavLink>
 
                             </div>
                         </div>

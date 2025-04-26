@@ -27,7 +27,7 @@ const Advertise = () => {
                             <h1 className="text-7xl font-extrabold">25%</h1>
                             <h2 className="text-2xl font-semibold">Foods They Love</h2>
                         </div>
-                        <Link to={"/shop"}>
+                        <Link to={"/shop/0"}>
                             <Button />
                         </Link>
                     </div>
