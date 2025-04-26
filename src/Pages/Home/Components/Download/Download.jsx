@@ -1,4 +1,6 @@
 import React from 'react';
+import download from "../Download/Image/downloadapp.png"
+import store from "../Download/Image/store.png"
 
 const Download = () => {
     return (
@@ -6,7 +8,7 @@ const Download = () => {
             <div className="">
                 <div className="flex justify-between w-8/12 mx-auto">
                     <div className="">
-                        <img src="/src/Pages/Home/Components/Download/Image/downloadapp.png" alt="" />
+                        <img src={download} alt="" />
                     </div>
                     <div className="flex flex-col justify-end">
                         <div className="space-y-2">
@@ -16,7 +18,7 @@ const Download = () => {
                             </h1>
                             <p className='mt-10 text-gray-500'>Shopping faster with our app. <br />
                             Available for iOs & Android</p>
-                            <img className='w-120' src="/src/Pages/Home/Components/Download/Image/store.png" alt="" />
+                            <img className='w-120' src={store} alt="" />
                         </div>
                     </div>
                 </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
+import logo from "../assets/Image/logo.svg"
 
 const Footer = () => {
     return (
@@ -7,7 +8,7 @@ const Footer = () => {
             <footer className="footer sm:footer-horizontal text-base-content p-10 w-9/12 mx-auto">
                 <aside>
                     <Link to={"/"}>
-                        <img src="/src/assets/Image/logo.svg" alt="" />
+                        <img src={logo} alt="" />
                     </Link>
                     <p>
                         PetShop Ziggy.

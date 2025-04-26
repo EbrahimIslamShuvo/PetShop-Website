@@ -1,5 +1,9 @@
 import React from 'react';
 import Button from '../../Components/Shared/Button';
+import own1 from "../AboutUS/Image/own1.jpg"
+import own2 from "../AboutUS/Image/own2.jpg"
+import own3 from "../AboutUS/Image/own3.jpg"
+import ab1 from "../AboutUS/Image/ab1.png"
 
 const AboutUS = () => {
     return (
@@ -15,7 +19,7 @@ const AboutUS = () => {
                             <Button></Button>
                         </div>
                         <div className="w-6/12 h-full">
-                            <img src="/src/Pages/AboutUS/Image/ab1.png" alt="" />
+                            <img src={ab1} alt="" />
                         </div>
                     </div>
 
@@ -72,7 +76,7 @@ const AboutUS = () => {
                                 <div className="flex justify-between items-center w-7/12 mx-auto">
                                     <div className="flex flex-col items-center gap-8">
                                         <div className=" rounded-full">
-                                            <img className='w-65 h-65 rounded-full' src="/src/Pages/AboutUS/Image/own1.jpg" alt="" />
+                                            <img className='w-65 h-65 rounded-full' src={own1} alt="" />
                                         </div>
                                         <div className="">
                                             <h1 className='text-xl font-bold'>Albert McLinney</h1>
@@ -81,7 +85,7 @@ const AboutUS = () => {
                                     </div>
                                     <div className="flex flex-col items-center gap-8">
                                         <div className=" rounded-full">
-                                            <img className='w-65 h-65 rounded-full' src="/src/Pages/AboutUS/Image/own2.jpg" alt="" />
+                                            <img className='w-65 h-65 rounded-full' src={own2} alt="" />
                                         </div>
                                         <div className="">
                                             <h1 className='text-xl font-bold'>Mic Xixo</h1>
@@ -90,7 +94,7 @@ const AboutUS = () => {
                                     </div>
                                     <div className="flex flex-col items-center gap-8">
                                         <div className=" rounded-full">
-                                            <img className='w-65 h-65 rounded-full' src="/src/Pages/AboutUS/Image/own3.jpg" alt="" />
+                                            <img className='w-65 h-65 rounded-full' src={own3} alt="" />
                                         </div>
                                         <div className="">
                                             <h1 className='text-xl font-bold'>Marry Qued</h1>

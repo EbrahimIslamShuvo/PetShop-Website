@@ -3,6 +3,8 @@ import Header from '../../../../Components/Shared/Header';
 import productData from '../../../../Data/productData';
 import Card from '../../../../Components/Shared/Card';
 import Button from '../../../../Components/Shared/Button';
+import dogg from "../Dog/Image/dogg.png"
+import dog from "../Dog/Image/dog.png"
 
 const Dog = () => {
 
@@ -21,13 +23,13 @@ const Dog = () => {
                         <div className="relative bg-[#FD8D4E] rounded-xl overflow-hidden group flex-1 h-full z-2">
                             <img
                                 className="absolute inset-0 w-full h-full object-cover -z-10 rounded-xl"
-                                src="/src/Pages/Home/Components/Dog/Image/dog.png"
+                                src={dog}
                                 alt=""
                             />
                             <div className="flex justify-end items-end-safe h-11/12 w-11/12 mx-auto">
                                 <img
                                     className="transition-transform duration-500 ease-in-out group-hover:scale-110 w-full object-fit rounded-xl"
-                                    src="/src/Pages/Home/Components/Dog/Image/dogg.png"
+                                    src={dogg}
                                     alt=""
                                 />
                             </div>

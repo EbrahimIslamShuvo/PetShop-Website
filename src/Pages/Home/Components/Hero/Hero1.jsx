@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaChevronCircleRight, FaCircle } from 'react-icons/fa';
-
+import birdPack from "../Hero/Image/birdPack.png"
+import discount from "../Hero/Image/discount.png"
 import pet01 from "../Hero/Image/bird.png"
 
 const Hero1 = () => {
@@ -26,7 +27,7 @@ const Hero1 = () => {
                                 <FaCircle className='text-[#DBD59F] md:top-30 top-13 absolute text-[450px] -ml-10 md:ml-0 '></FaCircle>
                             </div>
                             <div className="">
-                                <img className='w-100 md:mt-15 md:ml-20 relative z-40' src="/src/Pages/Home/Components/Hero/Image/birdPack.png" alt="" />
+                                <img className='w-100 md:mt-15 md:ml-20 relative z-40' src={birdPack} alt="" />
                             </div>
                             <div
                                 style={{
@@ -43,7 +44,7 @@ const Hero1 = () => {
                                 <img src={pet01} alt="Bird" />
                             </div>
                             <div className=" absolute z-40 -top-15 -right-35">
-                                <img className='w-70' src="/src/Pages/Home/Components/Hero/Image/discount.png" alt="" />
+                                <img className='w-70' src={discount} alt="" />
                             </div>
                         </div>
                     </div>

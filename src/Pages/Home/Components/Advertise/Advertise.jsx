@@ -1,6 +1,10 @@
 import React from 'react';
 import Button from '../../../../Components/Shared/Button';
 import { Link } from 'react-router-dom';
+import ad1 from "../Advertise/Image/ad1.png"
+import ad11 from "../Advertise/Image/ad11.png"
+import ad2 from "../Advertise/Image/ad2.png"
+import ad22 from "../Advertise/Image/ad22.png"
 
 const Advertise = () => {
     return (
@@ -9,12 +13,12 @@ const Advertise = () => {
                 <div className="relative bg-[#0e4362f4] rounded-xl overflow-hidden group flex-1 min-h-[300px] z-2">
                     <img
                         className="absolute inset-0 w-full h-full object-cover -z-10 rounded-xl"
-                        src="/src/Pages/Home/Components/Advertise/Image/ad1.png"
+                        src={ad1}
                         alt=""
                     />
                     <img
                         className="transition-transform duration-500 ease-in-out group-hover:scale-110 w-full h-full object-cover rounded-xl"
-                        src="/src/Pages/Home/Components/Advertise/Image/ad11.png"
+                        src={ad11}
                         alt=""
                     />
                     <div className="absolute top-10 left-10 text-white z-10 flex flex-col h-8/12 justify-between">
@@ -31,12 +35,12 @@ const Advertise = () => {
                 <div className="relative bg-[#FD8D4E] rounded-xl overflow-hidden group flex-1 min-h-[300px] z-2">
                     <img
                         className="absolute inset-0 w-full h-full object-cover -z-10 rounded-xl"
-                        src="/src/Pages/Home/Components/Advertise/Image/ad2.png"
+                        src={ad2}
                         alt=""
                     />
                     <img
                         className="transition-transform duration-500 ease-in-out group-hover:scale-110 w-full h-full object-cover rounded-xl"
-                        src="/src/Pages/Home/Components/Advertise/Image/ad22.png"
+                        src={ad22}
                         alt=""
                     />
                     <div className="absolute top-10 left-10 text-white font-semibold z-10 h-8/12 flex flex-col justify-between">

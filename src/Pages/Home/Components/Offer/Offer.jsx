@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Button from '../../../../Components/Shared/Button';
+import offerPic from '../Offer/Image/offer.png'
 
 const Offer = () => {
     // Set the target date (e.g., 3 days from now)
@@ -90,7 +91,7 @@ const Offer = () => {
                         </div>
                     </div>
                     <div className="">
-                        <img src="/src/Pages/Home/Components/Offer/Image/offer.png" alt="" />
+                        <img src={offerPic} alt="" />
                     </div>
                 </div>
             </div>

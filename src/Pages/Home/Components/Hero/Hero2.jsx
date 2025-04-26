@@ -1,5 +1,8 @@
 import React from 'react';
 import { FaChevronCircleRight, FaCircle } from 'react-icons/fa';
+import ratPack from "../Hero/Image/ratPack.png"
+import rat from "../Hero/Image/rat.png"
+import discount from "../Hero/Image/discount.png"
 
 const Hero2 = () => {
     return (
@@ -24,13 +27,13 @@ const Hero2 = () => {
                                 <FaCircle className='text-[#DBD59F] md:top-30 top-13 absolute text-[450px] -ml-10 md:ml-0 '></FaCircle>
                             </div>
                             <div className="">
-                                <img className='w-100 md:mt-15 md:ml-20 relative z-40' src="/src/Pages/Home/Components/Hero/Image/ratPack.png" alt="" />
+                                <img className='w-100 md:mt-15 md:ml-20 relative z-40' src={ratPack} alt="" />
                             </div>
                             <div className=" absolute z-50 bottom-0 w-full ml-60 animate-bounce duration-1000 hidden md:block">
-                                <img src="/src/Pages/Home/Components/Hero/Image/rat.png" alt="" />
+                                <img src={rat} alt="" />
                             </div>
                             <div className=" absolute z-40 -top-15 -right-35">
-                                <img className='w-70' src="/src/Pages/Home/Components/Hero/Image/discount.png" alt="" />
+                                <img className='w-70' src={discount} alt="" />
                             </div>
                         </div>
                     </div>

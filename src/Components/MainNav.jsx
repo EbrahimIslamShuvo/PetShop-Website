@@ -2,6 +2,7 @@ import React from 'react';
 import { FaArrowRight, FaRegHeart, FaRegUser } from 'react-icons/fa';
 import { IoCart, IoSearchSharp } from 'react-icons/io5';
 import { Link, NavLink } from 'react-router-dom';
+import logo from "../assets/Image/logo.svg"
 
 const NavItem = ({ to, label }) => {
     return (
@@ -66,7 +67,7 @@ const MainNav = () => {
                     <NavLink to={"/"}>
                         <div>
                             <img
-                                src="/src/assets/Image/logo.svg"
+                                src={logo}
                                 alt="Petshop Ziggy Logo"
                                 className="w-28 lg:w-36"
                             />
